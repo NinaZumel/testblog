@@ -13,15 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Short Thoughts
+email: nzumel@mzlabs.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+ A microblogging site of my own
+# twitter_username: username
+github_username: ninazumel
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
@@ -31,7 +29,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles
 
 include:
   - _pages
@@ -58,34 +56,34 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Nina Zumel"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "A blog for short posts and announcements"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://ninazumel.com/short_thoughts"
+    - label: "Micro.blog"
+      icon: "fab fa-fw fa-twitter-square" # change this
+      url: "https://micro.blog/MultoGhost"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/NinaZumel"
+    - label: "Multo (Ghost)"  # add one for RSS, too
+      icon: "fab fa-fw fa-instagram" # change this
+      url: "https://multoghost.wordpress.com/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Micro.blog"
+      icon: "fab fa-fw fa-twitter-square" # change this
+      url: "https://micro.blog/MultoGhost"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/NinaZumel"
+    - label: "Multo (Ghost)"  # add one for RSS, too
+      icon: "fab fa-fw fa-instagram" # change this
+      url: "https://multoghost.wordpress.com/"
 
 defaults:
   # _posts
