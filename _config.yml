@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Nina Zumel"
   avatar : "/assets/images/nina-photo.jpg"
-  bio    : "A blog for short posts and announcements"
+  bio    : "My blog for short posts and announcements"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

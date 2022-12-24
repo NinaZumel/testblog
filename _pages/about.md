@@ -1,9 +1,9 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Short Thoughts"
 ---
 
-I have a lot of long-form blogs, to cover a variety of related interests. *Short Thoughts* serves as my personal microblogging site, a one-stop shop to publicize what I written across all my blogs. And sometimes to share quick little musings, as well.
+I have a lot of long-form blogs, to cover a variety of related interests. *Short Thoughts* serves as my personal microblogging site, a one-stop shop to publicize what I've written across all my blogs. And sometimes to share quick little musings, as well.
 
 ### My Blogs
 

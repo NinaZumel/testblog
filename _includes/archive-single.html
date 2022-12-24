@@ -5,9 +5,9 @@
 {% endif %}
 
 {% if post.id %}
-  {% assign title = post.date | markdownify | remove: "<p>" | remove: "</p>" %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
-  {% assign title = post.date %}
+  {% assign title = post.title %}
 {% endif %}
 
 <div class="{{ include.type | default: 'list' }}__item">
@@ -18,13 +18,14 @@
       </div>
     {% endif %}
     <h2 class="archive__item-title no_toc" itemprop="headline">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d %Y, %l:%M %P" -%} 
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
+        <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.date | date: date_format }}</a>
       {% endif %}
     </h2>
     {% include page__meta.html type=include.type %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 280 }}</p>{% endif %}
   </article>
 </div>
