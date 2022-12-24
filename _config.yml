@@ -21,6 +21,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: ninazumel
 minimal_mistakes_skin: air
 search: true
+url: "https://ninazumel.com" 
+baseurl: "/testblog" # change this when I move the page
 
 # Build settings
 markdown: kramdown
@@ -64,26 +66,26 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://ninazumel.com/short_thoughts"
     - label: "Micro.blog"
-      icon: "fab fa-fw fa-microblog" # change this
+      icon: "fab fa-fw fa-microblog" 
       url: "https://micro.blog/MultoGhost"
-    - label: "GitHub"
+    - label: "Multo (Ghost)"  
+      icon: "fab fa-fw fa-wordpress" 
+      url: "https://multoghost.wordpress.com/"
+   - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NinaZumel"
-    - label: "Multo (Ghost)"  # add one for RSS, too
-      icon: "fab fa-fw fa-wordpress" # change this
-      url: "https://multoghost.wordpress.com/"
 
 footer:
   links:
     - label: "Micro.blog"
-      icon: "fab fa-fw fa-microblog" # change this
+      icon: "fab fa-fw fa-microblog" 
       url: "https://micro.blog/MultoGhost"
+    - label: "Multo (Ghost)"  
+      icon: "fab fa-fw fa-wordpress" 
+      url: "https://multoghost.wordpress.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NinaZumel"
-    - label: "Multo (Ghost)"  # add one for RSS, too
-      icon: "fab fa-fw fa-wordpress" # change this
-      url: "https://multoghost.wordpress.com/"
 
 defaults:
   # _posts
