@@ -5,9 +5,9 @@
 {% endif %}
 
 {% if post.id %}
-  {% assign title = post.date | markdownify | remove: "<p>" | remove: "</p>" %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
-  {% assign title = post.date %}
+  {% assign title = post.title %}
 {% endif %}
 
 <div class="{{ include.type | default: 'list' }}__item">
