@@ -23,6 +23,7 @@ minimal_mistakes_skin: air
 search: true
 # url: "https://ninazumel.com" 
 # baseurl: "/testblog" # change this when I move the page
+date_format: "%b %-d %Y, %l:%M %P"
 
 # Build settings
 markdown: kramdown
@@ -95,6 +96,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      show_date: true 
       read_time: false
       comments: false
       share: false
