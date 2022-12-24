@@ -71,7 +71,7 @@ author:
     - label: "Multo (Ghost)"  
       icon: "fab fa-fw fa-wordpress" 
       url: "https://multoghost.wordpress.com/"
-   - label: "GitHub"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NinaZumel"
 
