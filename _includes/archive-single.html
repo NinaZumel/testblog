@@ -25,7 +25,7 @@
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.date | date: date_format }}</a>
       {% endif %}
     </h2>
-    {% include page__meta.html type=include.type %}
+    {% comment %}<!--{% include page__meta.html type=include.type %}-->{% endcomment %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 280 }}</p>{% endif %}
   </article>
 </div>
