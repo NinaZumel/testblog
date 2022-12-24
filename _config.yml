@@ -57,32 +57,32 @@ plugins:
 
 author:
   name   : "Nina Zumel"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/nina-photo.jpg"
   bio    : "A blog for short posts and announcements"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://ninazumel.com/short_thoughts"
     - label: "Micro.blog"
-      icon: "fab fa-fw fa-twitter-square" # change this
+      icon: "fab fa-fw fa-microblog" # change this
       url: "https://micro.blog/MultoGhost"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NinaZumel"
     - label: "Multo (Ghost)"  # add one for RSS, too
-      icon: "fab fa-fw fa-instagram" # change this
+      icon: "fab fa-fw fa-wordpress" # change this
       url: "https://multoghost.wordpress.com/"
 
 footer:
   links:
     - label: "Micro.blog"
-      icon: "fab fa-fw fa-twitter-square" # change this
+      icon: "fab fa-fw fa-microblog" # change this
       url: "https://micro.blog/MultoGhost"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NinaZumel"
     - label: "Multo (Ghost)"  # add one for RSS, too
-      icon: "fab fa-fw fa-instagram" # change this
+      icon: "fab fa-fw fa-wordpress" # change this
       url: "https://multoghost.wordpress.com/"
 
 defaults:
@@ -93,10 +93,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"
