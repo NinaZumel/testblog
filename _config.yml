@@ -21,8 +21,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: ninazumel
 minimal_mistakes_skin: air
 search: true
-url: "https://ninazumel.com" 
-baseurl: "/testblog" # change this when I move the page
+# url: "https://ninazumel.com" 
+# baseurl: "/testblog" # change this when I move the page
 
 # Build settings
 markdown: kramdown
