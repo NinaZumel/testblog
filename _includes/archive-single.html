@@ -17,7 +17,7 @@
         <img src="{{ teaser | relative_url }}" alt="">
       </div>
     {% endif %}
-    <div class="archive__item-title no_toc">
+    <div>
       {%- assign date_format = site.minima.date_format | default: "%b %-d %Y, %l:%M %P" -%} 
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
