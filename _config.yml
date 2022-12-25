@@ -60,9 +60,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Nina Zumel"
-  avatar : "/assets/images/nina-photo.jpg"
-  bio    : "My blog for short posts and announcements"
+  # name   : "Nina Zumel"
+  avatar : "/assets/images/stoneflower.jpg"   
+  bio    : "Nina Zumel's blog for short posts and announcements"
   links:
     - label: "My Professional Website"
       icon: "fas fa-fw fa-link"
