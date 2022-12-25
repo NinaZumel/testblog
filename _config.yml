@@ -64,18 +64,16 @@ author:
   avatar : "/assets/images/nina-photo.jpg"
   bio    : "My blog for short posts and announcements"
   links:
-    - label: "Website"
+    - label: "My Professional Website"
       icon: "fas fa-fw fa-link"
-      url: "https://ninazumel.com/short_thoughts"
+      url: "https://ninazumel.com/"
     - label: "Micro.blog"
       icon: "fab fa-fw fa-microblog" 
       url: "https://micro.blog/MultoGhost"
     - label: "Multo (Ghost)"  
       icon: "fab fa-fw fa-wordpress" 
       url: "https://multoghost.wordpress.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/NinaZumel"
+
 
 footer:
   links:
@@ -85,9 +83,7 @@ footer:
     - label: "Multo (Ghost)"  
       icon: "fab fa-fw fa-wordpress" 
       url: "https://multoghost.wordpress.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/NinaZumel"
+
 
 defaults:
   # _posts
@@ -95,7 +91,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: post
+      layout: post    # custom layout for posts with no (visible) title. Old default was single.
       author_profile: true
       show_date: true 
       read_time: false
