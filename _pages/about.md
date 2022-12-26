@@ -1,32 +1,19 @@
 ---
 layout: page
-title: "About"
+title: "About Short Thoughts"
 permalink: /about/
 ---
 
-This theme builds upon an amazing theme called [Tale](https://github.com/chesterhow/tale). Apart from the minor fixes to Tale, this theme is designed to make it easier to maintain a blog. 
+I have a lot of long-form blogs, to cover a variety of related interests. *Short Thoughts* serves as my personal microblogging site, a one-stop shop to publicize what I've written across all my blogs. And sometimes to share quick little musings, as well.
 
-If you already have a bunch of files in `*.md` format, you can simply copy them to the `_posts` folder after forking this theme and making a few changes to `_config.yml`, your blog is ready to go!
+### My Blogs
 
-## What's new in Tail
-- Dark Mode
-- Support for posts without the `YYYY-MM-DD` in post's filename
-- Bi-directional Wiki-style linking support compatible with Obsidian (Planned)
+[Multo(Ghost)](https://multoghost.wordpress.com): my primary blog, where I blog about the supernatural in literature and popular culture. Ghost stories, folklore, and whatever I feel like writing about.
 
-## Some great features from the original Tale
-- Compatible with GitHub Pages
-- Responsive design (looks just as good on mobile)
-- Syntax highlighting, with the help of Pygments
-- Markdown and HTML text formatting
-- Pagination of posts
-- Sticky posts
-- Tags
-- Excerpt management
-- Disqus comments
+[Ephemera](https://exiw.wordpress.com): Lately, I've been using this blog mostly for my translations of public domain, Spanish language supernatural short fiction.
 
-PS: If you liked this theme, do star it on GitHub. 
+[Dark Tales Sleuth](https://darktalessleuth.wordpress.com): A blog I use for my forays into "literary sleuthing": tracking down author attributions and original publication sources of unattributed (usually public domain) works.
 
-### Also, check out:
+[NinaZumel.com](https://ninazumel.com): My professional presence online. 
 
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [gradfolio](https://github.com/jitinnair1/gradfolio) - a minimal, quick-setup template for a personal website/portfolio
+You can follow [@MultoGhost](https://micro.blog/MultoGhost) at Micro.blog, or follow me here via RSS. If you want to reply to any of my posts here, you can do that by joining Micro.blog. You can leave a comment on my long form articles at the originating blog.
