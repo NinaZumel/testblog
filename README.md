@@ -1,27 +1,32 @@
-# Minimal Mistakes remote theme starter
+# Tail
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+Tail is a minimal Jekyll blog theme heavily based on [Tale](https://github.com/chesterhow/tale) (and hence the name). Apart from the minor fixes to Tale and significant changes under the hood, this theme is designed to make it easier to maintain a blog.
 
-Contains basic configuration to get you a site with:
+If you already have a bunch of files in `*.md` format, you can simply copy them to the `_posts` folder after forking this theme and making a few changes to `_config.yml`, your blog is ready to go!
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+## What's new in Tail
+- Dark Mode
+- Support for posts without the `YYYY-MM-DD` in the post's filename
+- Bi-directional Wiki-style linking support compatible with Obsidian (Planned)
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+## Features
+- Easy installation
+- Compatible with GitHub Pages
+- Responsive design
+- Pagination of posts
+- Sticky posts
+- Tags
+- Excerpt management
 
----
+## Contributing
+Found a bug or have a suggestion? Feel free to create an issue or make a pull request!
 
-## Troubleshooting
+## License
+See [LICENSE](https://github.com/jitinnair1/tail/blob/master/LICENSE)
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+PS: If you liked the theme, do star :star: it! Thanks!
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+### Also, check out:
+
+- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
+- [gradfolio](https://github.com/jitinnair1/gradfolio) - a minimal, quick-setup template for a personal website/portfolio

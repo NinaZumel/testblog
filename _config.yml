@@ -1,114 +1,46 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Short Thoughts
-email: nzumel@mzlabs.com
-description: >- # this means to ignore newlines until "baseurl:"
- A microblogging site of my own
-# twitter_username: username
-github_username: ninazumel
-minimal_mistakes_skin: air
-search: true
-# url: "https://ninazumel.com" 
-# baseurl: "/testblog" # change this when I move the page
-date_format: "%b %-d %Y, %l:%M %P"
+title:          Tail
+description:    "Minimal Jekyll blog theme"
+baseurl:        "/tail"
+url:
+
+# https://jekyllrb.com/docs/configuration/options/
+timezone: Asia/Kolkata
+
+# Google Analytics
+google_analytics:
+
+# Author
+author:
+  name:         Jitin Nair
+  url:          https://jitin.xyz
+  email:        hello@jitin.xyz
 
 # Build settings
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-# Outputting
-# permalink: /:categories/:title/
-permalink: /:categories/:year/:month/:day/:title:output_ext
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: America/Los_Angeles
-
+markdown:       kramdown
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Assets
+sass:
+  sass_dir:     /assets/css/_sass
+  style:        compressed
 
-# Plugins (previously gems:)
+# Gems
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-last-modified-at
 
-author:
-  # name   : "Nina Zumel"
-  avatar : "/assets/images/stoneflower.jpg"   
-  bio    : "Nina Zumel's blog for short posts and announcements"
-  links:
-    - label: "My Professional Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://ninazumel.com/"
-    - label: "Micro.blog"
-      icon: "fab fa-fw fa-microblog" 
-      url: "https://micro.blog/MultoGhost"
-    - label: "Multo (Ghost)"  
-      icon: "fab fa-fw fa-wordpress" 
-      url: "https://multoghost.wordpress.com/"
+# Permalinks
+permalink:      /:title
+paginate:       5
 
+# Excludes
+exclude:
+  - README.md
+  - LICENSE.md
 
-footer:
-  links:
-    - label: "Micro.blog"
-      icon: "fab fa-fw fa-microblog" 
-      url: "https://micro.blog/MultoGhost"
-    - label: "Multo (Ghost)"  
-      icon: "fab fa-fw fa-wordpress" 
-      url: "https://multoghost.wordpress.com/"
-
-
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post    # custom layout for posts with no (visible) title. Old default was single.
-      author_profile: true
-      show_date: true 
-      read_time: false
-      comments: false
-      share: false
-      related: false
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+# Disqus (Set to your disqus id)
+disqus:
