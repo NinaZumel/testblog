@@ -7,14 +7,22 @@ baseurl:        "/testblog"   # change this when I move the site
 # https://jekyllrb.com/docs/configuration/options/
 timezone: America/Los_Angeles
 
-# Google Analytics
-# google_analytics:
 
 # Author
 author:
   name:         Nina Zumel
   url:          https://ninazumel.com
   email:        nzumel@mzlabs.com
+
+footer:
+  links:
+    - label: "Micro.blog"
+      icon: "fab fa-fw fa-microblog" 
+      url: "https://micro.blog/MultoGhost"
+    - label: "Multo (Ghost)"  
+      icon: "fab fa-fw fa-wordpress" 
+      url: "https://multoghost.wordpress.com/"
+
 
 # Build settings
 markdown:       kramdown
