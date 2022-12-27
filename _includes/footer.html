@@ -1,16 +1,21 @@
 <footer>
   <div class="social-wrapper">
-    <a class="social-button" href="https://micro.blog/MultoGhost" rel="me">
-      <i class="fab fa-fw fa-microblog fa-lg" aria-hidden="true"></i>
-    </a>
-    <a class="social-button" href="https://multoghost.wordpress.com" rel="me">
-      <i class="fab fa-fw fa-wordpress fa-lg" aria-hidden="true"></i>
-    </a>
-    <a class="social-button" href="https://ninazumel.com/short_thoughts/feed.xml" rel="me">
-      <i class="fas fa-fw fa-rss-square fa-lg" aria-hidden="true"></i>
-    </a>
+    {% if site.footer.links %}
+      {% for link in site.footer.links %}
+        {% if link.url %}
+          <a class="social-button" href="{{link.url}} rel="me">
+            <i class="{{ link.icon | default: 'fas fa-link fa-lg' }}" aria-hidden="true"></i>
+          </a>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  
+    <a class="social-button" href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}">
+      <i class="fas fa-fw fa-rss-square fa-lg" aria-hidden="true"></i> 
+    </a>    
   </div>
+
   <div class="copy">
-    &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}.
+    &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}
   </span>
 </footer>

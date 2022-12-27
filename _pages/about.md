@@ -4,7 +4,7 @@ title: "About Short Thoughts"
 permalink: /about/
 ---
 
-*Short Thoughts* is my personal microblogging site. I use it to share what I've written across all my long-form blogs, and to share quick little musings.
+*Short Thoughts* is my personal microblogging site. I use it to share what I've written across all my long-form blogs, and to post quick little musings.
 
 ### My Blogs
 
