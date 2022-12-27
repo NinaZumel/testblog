@@ -11,6 +11,15 @@
       {{ content }}
     </main>
 
-    {% include footer.html %}
+    <footer>
+      <p class="copy">
+        <small> &copy; {{site.title}} {{ site.time | date: '%Y' }}
+                | Made with Jekyll using the <a href="https://github.com/jitinnair1/tail">Tail</a> theme.
+        </small>
+      </p>
+
+    {% include social-footer.html %}
+
+    </footer>
   </body>
 </html>
