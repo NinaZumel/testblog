@@ -6,7 +6,6 @@ baseurl:        "/testblog"   # change this when I move the site
 
 # https://jekyllrb.com/docs/configuration/options/
 timezone: America/Los_Angeles
-date_format: "%b %-d %Y, %l:%M %P"
 
 # Author
 author:
