@@ -23,6 +23,17 @@ footer:
       icon: "fab fa-fw fa-wordpress" 
       url: "https://multoghost.wordpress.com/"
 
+# Social media links in footer
+twitter: "multoghost"
+linkedin: "ninazumel"
+stackoverflow: "#"
+github: "ninazumel"
+researchgate: "#"
+orcid: "#"
+quora: "#"
+instagram: "#"
+facebook: "#"
+
 
 # Build settings
 markdown:       kramdown
