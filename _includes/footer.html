@@ -3,7 +3,7 @@
     {% if site.footer.links %}
       {% for link in site.footer.links %}
         {% if link.url %}
-          <a class="social-button" href="{{link.url}} rel="me">
+          <a class="social-button" href="{{link.url}}" rel="me">
             <i class="{{ link.icon | default: 'fas fa-link fa-lg' }}" aria-hidden="true"></i>
           </a>
         {% endif %}
