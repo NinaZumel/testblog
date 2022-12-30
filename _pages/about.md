@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Principal Consultant with [Win-Vector LLC](https://win-vector.com/), a data science consulting and training firm based in San Francisco. My technical interests include data science, statistics, statistical learning, and data visualization. I am also interested in data science training and teaching.
+I am a Founder and Principal Consultant with [Win-Vector LLC](https://win-vector.com/), a data science consulting and training firm based in San Francisco. My technical interests include data science, statistics, statistical learning, and data visualization. I am also interested in data science training and teaching.
 
 In addition, I am the VP of Data Science Practice for [Wallaroo.ai](https://www.wallaroo.ai/). The Wallaroo platform orchestrates the data science "last mile": deploying, managing, and monitoring ML models in production, in a data scientist-friendly manner.
 
