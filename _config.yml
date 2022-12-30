@@ -91,38 +91,24 @@ author:
   avatar           : "ninaheadshotsmall.jpeg"
   bio              : "Founder, Principal Data Scientist, Win-Vector LLC"
   location         : "San Francisco"
-  employer         : Win Vector LLC
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : nzumel@win-vector.com
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : # "NinaZumel"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : # "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  links:
+    - label: "Win Vector, LLC"
+      icon: "fas fa-fw fa-link"
+      url: "https://win-vector.com/"
+    - label: "Wallaroo.ai"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.wallaroo.ai/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin" 
+      url: "https://www.linkedin.com/in/ninazumel/"
 
+
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin" 
+      url: "https://www.linkedin.com/in/ninazumel/"
 
 # Reading Files
 include:
