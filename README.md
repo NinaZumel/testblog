@@ -1,32 +1,28 @@
-# Tail
+# Gradfolio
 
-Tail is a minimal Jekyll blog theme heavily based on [Tale](https://github.com/chesterhow/tale) (and hence the name). Apart from the minor fixes to Tale and significant changes under the hood, this theme is designed to make it easier to maintain a blog.
-
-If you already have a bunch of files in `*.md` format, you can simply copy them to the `_posts` folder after forking this theme and making a few changes to `_config.yml`, your blog is ready to go!
-
-## What's new in Tail
-- Dark Mode
-- Support for posts without the `YYYY-MM-DD` in the post's filename
-- Bi-directional Wiki-style linking support compatible with Obsidian (Planned)
+responsive, dark-mode ready Jekyll theme designed for use as a personal website and portfolio. [Here's a live demo](https://jitinnair1.github.io/gradfolio/)
 
 ## Features
-- Easy installation
-- Compatible with GitHub Pages
-- Responsive design
-- Pagination of posts
-- Sticky posts
-- Tags
-- Excerpt management
+- Responsive
+- Respects Dark Mode preference set by the user
+- Projects Page to showcase your work/side projects
+- Easily link to your profiles on ResearchGate and ORCID
 
-## Contributing
-Found a bug or have a suggestion? Feel free to create an issue or make a pull request!
+## Installation
+* Click on `Use this template`
+* Your new site should be ready at https://username.github.io/gradfolio/
+* You can now modify the contents and personalise the template
 
-## License
-See [LICENSE](https://github.com/jitinnair1/tail/blob/master/LICENSE)
+Alternatively, you can [download the source files](https://github.com/jitinnair1/gradfolio/archive/master.zip) and [make changes locally](https://github.com/jitinnair1/gradfolio/wiki/Local-Development). 
 
-PS: If you liked the theme, do star :star: it! Thanks!
+## Documentation
+
+Check out the [Wiki](https://github.com/jitinnair1/gradfolio/wiki) for some tips on [publishing to a custom domain](https://github.com/jitinnair1/gradfolio/wiki/Publishing-your-website) or an [indicative list of things to customise before you publish](https://github.com/jitinnair1/gradfolio/wiki/Customising-your-website) 
 
 ### Also, check out:
 
 - [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [gradfolio](https://github.com/jitinnair1/gradfolio) - a minimal, quick-setup template for a personal website/portfolio
+- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+
+
+PS: If you liked the theme, do star :star: it! Thanks!

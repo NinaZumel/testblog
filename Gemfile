@@ -1,17 +1,12 @@
-# frozen_string_literal: true
+source 'https://rubygems.org'
 
-source "https://rubygems.org"
-
-gem 'jekyll', "~> 4.0"
+gem 'jekyll'
 
 group :jekyll_plugins do
   gem 'jekyll-seo-tag'
   gem 'jekyll-paginate'
   gem 'jekyll-email-protect'
-  gem 'jekyll-feed'
-  gem 'jekyll-last-modified-at'
+  gem 'jekyll-target-blank'
 end
 
 gem "webrick", "~> 1.7"
-
-gem "nokogiri", "~> 1.13"
