@@ -9,16 +9,15 @@ author_profile: true
 
   <div class="gallery">
   <div class="projectTile">
-        <a href="{{ "/practical-data-science-with-r/" | prepend: site.baseurl | prepend: site.url }}">
+        <a href="{{ "/practical-data-science-with-r/" | prepend: site.baseurl | prepend: site.url }}" style="text-decoration: none">
           <span>
               <p><strong>{{ "Practical Data Science with R" }}</strong></p>
-          </span>
           </span>
         </a>
   </div>
 
   <div class="projectTile">
-        <a href="{{ "/nina-technical" | prepend: site.baseurl | prepend: site.url }}">
+        <a href="{{ "/nina-technical" | prepend: site.baseurl | prepend: site.url }}" style="text-decoration: none">
           <span>
               <p><strong>{{ "Publications and Technical Writing" }}</strong></p>
           </span>
@@ -26,7 +25,7 @@ author_profile: true
   </div>
 
   <div class="projectTile">
-        <a href="{{ "/talks/" | prepend: site.baseurl | prepend: site.url }}">
+        <a href="{{ "/talks/" | prepend: site.baseurl | prepend: site.url }}" style="text-decoration: none">
           <span>
               <p><strong>{{ "Talks" }}</strong></p>
           </span>
@@ -34,7 +33,7 @@ author_profile: true
   </div>
 
   <div class="projectTile">
-        <a href="{{ "/year-archive/" | prepend: site.baseurl | prepend: site.url }}">
+        <a href="{{ "/year-archive/" | prepend: site.baseurl | prepend: site.url }}" style="text-decoration: none">
           <span>
               <p><strong>{{ "Blog Archive" }}</strong></p>
           </span>
