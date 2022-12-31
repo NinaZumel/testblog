@@ -11,7 +11,8 @@ author_profile: true
   <div class="projectTile">
         <a href="{{ "/practical-data-science-with-r/" | prepend: site.baseurl | prepend: site.url }}">
           <span>
-              <h3>{{ "Practical Data Science with R" }}</h3>
+              <p><strong>{{ "Practical Data Science with R" }}</strong></p>
+          </span>
           </span>
         </a>
   </div>

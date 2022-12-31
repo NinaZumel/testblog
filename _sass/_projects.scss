@@ -48,8 +48,17 @@
   display: none;
 }
 
+/* ---
 .projectTile a span p {
   display: none;
+}
+--- */
+
+.projectTile a span p {
+  font-size: 1.2rem;
+  display: flex;
+  padding: 1rem;
+  color: $projectbox-text;
 }
 
 .projectTile:hover a span p {
