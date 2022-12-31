@@ -6,6 +6,8 @@ author_profile: true
 
 <!-- Based on gradfolio projects.md but I'm doing it by hand-->
 <div class="ProjectContainer">
+
+  <div class="gallery">
   <div class="projectTile">
         <a href="{{ "/practical-data-science-with-r/" | prepend: site.baseurl | prepend: site.url }}">
           <span>
@@ -44,5 +46,7 @@ author_profile: true
               <p>{{ "Organized by year" }}</p>
           </span>
         </a>
+  </div>
+
   </div>
 </div>
