@@ -132,6 +132,11 @@ pre {
   overflow-x: auto; /* add scrollbars to wide code blocks*/
 }
 
+/*-----
+The below is not in minimal mistakes, so I'm going to comment it out and see what happens.
+------*/
+
+/* -------------------------
 p > code,
 a > code,
 li > code,
@@ -147,9 +152,10 @@ td > code {
 
   &:before, &:after {
     letter-spacing: -0.2em;
-    content: "\00a0"; /* non-breaking space*/
+    content: "\00a0"; /* non-breaking space * / <- this comment needs fixed if I uncomment this block
   }
 }
+------------------------------*/
 
 /* horizontal rule */
 
