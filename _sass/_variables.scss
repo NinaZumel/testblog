@@ -168,3 +168,18 @@ $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
 $global-transition          : all 0.2s ease-in-out;
+
+
+/*
+  Project boxes (project page)
+   ========================================================================== */
+   
+// Color scheme for light
+$body-bg: #fdfdfd;
+$projectbox: #c3e1c9;
+$text-color: #333;
+
+// Color scheme for dark modes
+$body-bg-dark: #23272d;
+$projectbox-dark: lighten(#98a0ac, 2%);
+$text-color-dark: #98a0ac;
