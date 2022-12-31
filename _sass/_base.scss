@@ -132,11 +132,7 @@ pre {
   overflow-x: auto; /* add scrollbars to wide code blocks*/
 }
 
-/*-----
-The below is not in minimal mistakes, so I'm going to comment it out and see what happens.
-------*/
 
-/* -------------------------
 p > code,
 a > code,
 li > code,
@@ -144,7 +140,7 @@ figcaption > code,
 td > code {
   padding-top: 0.1rem;
   padding-bottom: 0.1rem;
-  font-size: $type-size-6;
+  /* font-size: $type-size-6; */
   background: $code-background-color;
   border: 1px solid $lighter-gray;
   border-radius: $border-radius;
@@ -152,10 +148,10 @@ td > code {
 
   &:before, &:after {
     letter-spacing: -0.2em;
-    content: "\00a0"; /* non-breaking space * / <- this comment needs fixed if I uncomment this block
+    content: "\00a0"; /* non-breaking space */ 
   }
 }
-------------------------------*/
+
 
 /* horizontal rule */
 
