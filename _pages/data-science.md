@@ -27,15 +27,7 @@ author_profile: true
   <div class="projectTile">
         <a href="{{ "/talks/" | prepend: site.baseurl | prepend: site.url }}" style="text-decoration: none">
           <span>
-              <p><strong>{{ "Talks" }}</strong></p>
-          </span>
-        </a>
-  </div>
-
-  <div class="projectTile">
-        <a href="{{ "/year-archive/" | prepend: site.baseurl | prepend: site.url }}" style="text-decoration: none">
-          <span>
-              <p><strong>{{ "Blog Archive" }}</strong></p>
+              <p><strong>{{ "Talks and Presentations" }}</strong></p>
           </span>
         </a>
   </div>
