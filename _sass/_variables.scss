@@ -174,14 +174,9 @@ $global-transition          : all 0.2s ease-in-out;
   Project boxes (project page)
    ========================================================================== */
 
-$projectbox-text:  #32506d; // #1e2126;
+$projectbox-text: #fafafa; // #1e2126;
 
 // Color scheme for light
 $body-bg: #fdfdfd;
 $projectbox: $light-gray;
-$text-color: $projectbox-text;
 
-// Color scheme for dark modes
-$body-bg-dark: #23272d;
-$projectbox-dark: lighten(#98a0ac, 2%);
-$text-color-dark: #98a0ac;

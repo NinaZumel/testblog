@@ -1,6 +1,6 @@
 ---
 permalink: "/data-science/"
-title: Data Science, etc.
+title: Data Science
 author_profile: true
 ---
 

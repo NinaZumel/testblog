@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Data Science, etc"
+  - title: "Data Science Activities"
     url: /data-science/
     
-  - title: "Other Writing"
+  - title: "Personal Writing"
     url: /nina-other-writing/
     
   - title: "CV"
