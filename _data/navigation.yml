@@ -4,8 +4,7 @@ main:
     url: /data-science/
     
   - title: "Blog"
-    url: /blog/
-    #url: /year-archive/
+    url: /year-archive/
 
   - title: "Personal Writing"
     url: /nina-other-writing/
