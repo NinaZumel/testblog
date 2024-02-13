@@ -1,4 +1,5 @@
 ---
+permalink: /personal-writing/
 layout: layouts/base.njk
 title: "Personal Writing"
 eleventyNavigation:
