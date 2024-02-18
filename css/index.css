@@ -27,7 +27,8 @@
 		--color-gray-50: #C0C0C0;
 		--color-gray-90: #dad8d8;
 
-		/* --text-color is assigned to --color-gray-_ above */
+		/* --text-color is assigned to --color-gray-_ above.*/
+		--test-color: var(--color-gray-20);
 		--text-color-link: #1493fb;
 		--text-color-link-active: #6969f7;
 		--text-color-link-visited: #a6a6f8;
@@ -73,12 +74,12 @@ p:last-child {
 }
 p {
 	line-height: 1.5;
-	font-size: 1.2em; 
+	/* font-size: 1.2em; */
 }
 
 li {
 	line-height: 1.5;
-	font-size: 1.2em; 
+	/* font-size: 1.2em; */
 }
 
 a[href] {
