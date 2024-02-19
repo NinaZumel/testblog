@@ -238,6 +238,28 @@ body {
 	max-width: 50em;
 }
 
+/* https://css-tricks.com/barebones-css-for-fluid-images/ */
+img {
+	max-width: 100%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+  }
+  img[width] {
+	width: auto; /* Defer to max-width */
+  }
+  img[width][height] {
+	height: auto; /* Preserve aspect ratio */
+  }
+  
+  /* Let SVG scale without boundaries */
+  img[src$=".svg"] {
+	width: 100%;
+	height: auto;
+	max-width: none;
+  }
+  
+
 /* https://www.a11yproject.com/posts/how-to-hide-content/ */
 .visually-hidden {
 	clip: rect(0 0 0 0);
@@ -256,6 +278,13 @@ p {
 	line-height: 1.5;
 	/* font-size: 1.2em; */
 }
+
+P.caption {
+	text-align: center;
+	font-style: italic;
+	font-size: 0.9em;
+	color: #9B9C9D;
+ }
 
 li {
 	line-height: 1.5;
@@ -527,7 +556,7 @@ hr {
 </ul>
 
 <p>I have a new blog post up on the Win Vector blog: <a href="https://win-vector.com/2023/08/20/detecting-data-differences-using-the-sphering-transform/">Detecting Data Differences Using the Sphering Transform</a>.</p>
-<img style="display:block;margin-left:auto;margin-right:auto;" src="/testblog/img/blog/new_raw_comp_xformed.png" alt="Distributions of sphered norms for two data sets with different distributions">
+<img alt="Distributions of sphered norms for two data sets with different distributions" loading="lazy" decoding="async" src="/testblog/img/new_raw_comp_xformed-s2pbz_kSJE-200.png" width="609" height="470" srcset="/testblog/img/new_raw_comp_xformed-s2pbz_kSJE-200.png 200w, /testblog/img/new_raw_comp_xformed-s2pbz_kSJE-400.png 400w, /testblog/img/new_raw_comp_xformed-s2pbz_kSJE-609.png 609w" sizes="200,400,800,auto">
 <p>In this post, I discuss how to convert the problem of detecting changes in multivariate distributions to the simpler problem of detecting changes in univariate distributions. Please check it out.</p>
 
 <ul class="links-nextprev"><li>Previous: <a href="/testblog/blog/2023-04-10-pandas-polars-rosetta-stone/">Pandas-Polars Rosetta Stone</a></li><li>Next: <a href="/testblog/blog/2024-01-29-fun-with-chatgpt/">Fun With Chat GPT</a></li>

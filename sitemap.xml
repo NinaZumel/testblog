@@ -37,12 +37,17 @@
 	</url>
 	
 	<url>
+		<loc>https://ninazumel.com/testblog/tags/data-science/</loc>
+		<lastmod>2024-01-13</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://ninazumel.com/testblog/tags/statistics/</loc>
 		<lastmod>2024-01-13</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://ninazumel.com/testblog/tags/data-science/</loc>
+		<loc>https://ninazumel.com/testblog/tags/ab-testing/</loc>
 		<lastmod>2024-01-13</lastmod>
 	</url>
 	
@@ -73,11 +78,6 @@
 	
 	<url>
 		<loc>https://ninazumel.com/testblog/tags/chatgpt/</loc>
-		<lastmod>2024-01-13</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://ninazumel.com/testblog/tags/ab-testing/</loc>
 		<lastmod>2024-01-13</lastmod>
 	</url>
 	

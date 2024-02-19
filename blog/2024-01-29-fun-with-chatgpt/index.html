@@ -238,6 +238,28 @@ body {
 	max-width: 50em;
 }
 
+/* https://css-tricks.com/barebones-css-for-fluid-images/ */
+img {
+	max-width: 100%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+  }
+  img[width] {
+	width: auto; /* Defer to max-width */
+  }
+  img[width][height] {
+	height: auto; /* Preserve aspect ratio */
+  }
+  
+  /* Let SVG scale without boundaries */
+  img[src$=".svg"] {
+	width: 100%;
+	height: auto;
+	max-width: none;
+  }
+  
+
 /* https://www.a11yproject.com/posts/how-to-hide-content/ */
 .visually-hidden {
 	clip: rect(0 0 0 0);
@@ -256,6 +278,13 @@ p {
 	line-height: 1.5;
 	/* font-size: 1.2em; */
 }
+
+P.caption {
+	text-align: center;
+	font-style: italic;
+	font-size: 0.9em;
+	color: #9B9C9D;
+ }
 
 li {
 	line-height: 1.5;
@@ -528,8 +557,7 @@ hr {
 <p>What are some English words that are 4 letters long, start with f, and end with k?</p>
 </blockquote>
 <p>According to ChatGPT, there was only one word that fit that criterion: <em>fork</em>.  Upon prodding, it admitted that there were maybe a few more:</p>
-<!-- I'm just going to put images into the public/img directory, which I think gets passed through to _site (as /img)  -->
-<img src="/testblog/img/blog/chatgpt_fk.png" alt="Screenshot from ChatGPT 3.5" width="700">
+<img alt="Screenshot from ChatGPT 3.5" loading="lazy" decoding="async" src="/testblog/img/chatgpt_fk-DwBxoayKTh-400.png" width="3182" height="2287" srcset="/testblog/img/chatgpt_fk-DwBxoayKTh-400.png 400w, /testblog/img/chatgpt_fk-DwBxoayKTh-800.png 800w, /testblog/img/chatgpt_fk-DwBxoayKTh-1200.png 1200w, /testblog/img/chatgpt_fk-DwBxoayKTh-3182.png 3182w" sizes="400,800,1200,auto">
 <p>Typing a similar query into DuckDuckGo (<em>4 letter word starting with f ending with k</em>) produced a page full of links to various crossword puzzle and Scrabble dictionaries. The first link gave me seven words. A little further down, I found a link that gave me thirteen words: faik, fank, feck, filk, fink, firk, fisk, flak, folk, fork, funk, fusk, and of course, &quot;the F-word.&quot;</p>
 <p>I'm sure that ChatGPT has filters to eliminate profanity, and admittedly, not all the above words are &quot;common,&quot; but, come on -- <em>folk</em>? <em>funk</em>? <em>flak</em>??  I particularly like <em>feck</em>, though I never hear of anyone being &quot;full of feck,&quot; only &quot;feckless&quot; ...</p>
 <p>I'm sure GPT-4 does better, but I don't care to pay to find out.</p>
