@@ -23,9 +23,10 @@ An [A/B test](https://en.wikipedia.org/wiki/A/B_testing), also called a controll
 
 In the simplest version of an A/B test, subjects are randomly assigned to either the control group (group A) or the treatment group (group B). Subjects in the treatment group receive the treatment (such as a new medicine, a special offer, or a new web page design) while the control group proceeds as normal without the treatment. Data is then collected on the outcomes and used to study the effects of the treatment.
 
-<p><img style="display:block;margin-left:auto;margin-right:auto;" src="/img/blog/AB-Testing.png" alt="AB testing" border="0" width=600 /></p>
 
- Author: Seobility - License: [CC BY-SA 4.0](https://www.seobility.net/en/wiki/Creative_Commons_License_BY-SA_4.0 "Creative Commons License BY-SA 4.0")
+{% image "./images/AB-Testing.png", "AB testing" %}
+
+Author: Seobility - License: [CC BY-SA 4.0](https://www.seobility.net/en/wiki/Creative_Commons_License_BY-SA_4.0 "Creative Commons License BY-SA 4.0")
 
 ### **A/B Testing in History**
 
@@ -106,7 +107,7 @@ The general steps for a Bayesian analysis are roughly:
 
 4) Continue the experiment as long as it seems valuable to refine the estimates of the OEC. From the posterior distributions of the effect sizes, it is possible to estimate the delta effect size.
 
-<p><img style="display:block;margin-left:auto;margin-right:auto;" src="/img/blog//Fig+2.PNG" alt="Posterior distributions of a Bayesian treatment and control test." border="0" /></p>
+{% image "./images/Fig+2.PNG", "Posterior distributions of a Bayesian treatment and control test." %}
 
 Posterior distributions of a Bayesian treatment/control test. Source: [Win Vector Blog](https://win-vector.com/2013/05/06/bayesian-and-frequentist-approaches-ask-the-right-question/)
 

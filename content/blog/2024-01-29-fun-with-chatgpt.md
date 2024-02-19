@@ -10,10 +10,7 @@ So, my husband typed this into ChatGPT 3.5:
 
 According to ChatGPT, there was only one word that fit that criterion: *fork*.  Upon prodding, it admitted that there were maybe a few more:
 
-<!-- I'm just going to put images into the public/img directory, which I think gets passed through to _site (as /img)  -->
-
-<img src="/img/blog/chatgpt_fk.png" alt="Screenshot from ChatGPT 3.5" width=700 />
-
+{% image "./images/chatgpt_fk.png", "Screenshot from ChatGPT 3.5" %}
 
 Typing a similar query into DuckDuckGo (*4 letter word starting with f ending with k*) produced a page full of links to various crossword puzzle and Scrabble dictionaries. The first link gave me seven words. A little further down, I found a link that gave me thirteen words: faik, fank, feck, filk, fink, firk, fisk, flak, folk, fork, funk, fusk, and of course, "the F-word."
 
