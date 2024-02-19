@@ -21,7 +21,8 @@ function isFullUrl(url) {
 module.exports = function(eleventyConfig) {
 	// Eleventy Image shortcode
 	// https://www.11ty.dev/docs/plugins/image/
-	eleventyConfig.addAsyncShortcode("image", async function imageShortcode(src, alt, sizes=[400, 800, 1200, "auto"]) {
+	// arguments - image source, alt text, list of sizes to generate, fallback viewport size (100 is 100% of viewport)
+	eleventyConfig.addAsyncShortcode("image", async function imageShortcode(src, alt, iwidths=[400, 800, 1200, "auto"], sizes="100vw") {
 		// Full list of formats here: https://www.11ty.dev/docs/plugins/image/#output-formats
 		let formats = ["png"];
 
@@ -33,7 +34,7 @@ module.exports = function(eleventyConfig) {
 		}
 
 		let metadata = await eleventyImage(input, {
-			widths: sizes,     
+			widths: iwidths,     
 			formats,
 			outputDir: path.join(eleventyConfig.dir.output, "img"), // Advanced usage note: `eleventyConfig.dir` works here because we’re using addPlugin.
 			filenameFormat: (id, src, width, format) => {
