@@ -25,8 +25,8 @@ In the simplest version of an A/B test, subjects are randomly assigned to either
 
 
 {% image "./images/AB-Testing.png", "AB testing" %}
+<p class="caption">Author: Seobility - License: <a href="https://www.seobility.net/en/wiki/Creative_Commons_License_BY-SA_4.0">[CC BY-SA 4.0]</a>( "Creative Commons License BY-SA 4.0")</p>
 
-Author: Seobility - License: [CC BY-SA 4.0](https://www.seobility.net/en/wiki/Creative_Commons_License_BY-SA_4.0 "Creative Commons License BY-SA 4.0")
 
 ### **A/B Testing in History**
 
@@ -108,8 +108,7 @@ The general steps for a Bayesian analysis are roughly:
 4) Continue the experiment as long as it seems valuable to refine the estimates of the OEC. From the posterior distributions of the effect sizes, it is possible to estimate the delta effect size.
 
 {% image "./images/Fig+2.PNG", "Posterior distributions of a Bayesian treatment and control test." %}
-
-Posterior distributions of a Bayesian treatment/control test. Source: [Win Vector Blog](https://win-vector.com/2013/05/06/bayesian-and-frequentist-approaches-ask-the-right-question/)
+<p class="caption">Posterior distributions of a Bayesian treatment/control test. Source: <a href="https://win-vector.com/2013/05/06/bayesian-and-frequentist-approaches-ask-the-right-question/">Win-Vector Blog</a></p>
 
 Note that a Bayesian approach to A/B testing does not necessarily make the test any shorter; it simply makes quantifying the uncertainties in the experiment more straightforward, and arguably more intuitive. For a worked example of frequentist and Bayesian approaches to treatment/control experiments (in the context of clinical trials), see this [blog post](https://win-vector.com/2013/05/06/bayesian-and-frequentist-approaches-ask-the-right-question/) from Win Vector LLC. 
 
