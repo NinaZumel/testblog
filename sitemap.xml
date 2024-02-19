@@ -52,11 +52,6 @@
 	</url>
 	
 	<url>
-		<loc>https://ninazumel.com/testblog/tags/chatgpt/</loc>
-		<lastmod>2024-01-13</lastmod>
-	</url>
-	
-	<url>
 		<loc>https://ninazumel.com/testblog/tags/python/</loc>
 		<lastmod>2024-01-13</lastmod>
 	</url>
@@ -78,6 +73,11 @@
 	
 	<url>
 		<loc>https://ninazumel.com/testblog/tags/data-drift/</loc>
+		<lastmod>2024-01-13</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/tags/chatgpt/</loc>
 		<lastmod>2024-01-13</lastmod>
 	</url>
 	
