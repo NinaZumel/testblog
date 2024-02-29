@@ -1,0 +1,33 @@
+---
+permalink: /
+layout: layouts/home.njk
+numberOfLatestPostsToShow: 3
+---
+
+<div class="author_container">
+    <img src="/img/pen-hero.jpg" alt="Fountain pen">
+    <br>
+    <div class="author_description">
+        <p>{{metadata.description}}</p>
+    </div>
+</div>
+
+<br>
+<br>
+
+{% set postsCount = collections.posts | length %}
+{% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
+{# <h2>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h2> #}
+
+<div class="message-box">
+<h2>Latest Posts</h2>
+
+{% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
+{% set postslistCounter = postsCount %}
+{% include "postslist.njk" %}
+
+{% set morePosts = postsCount - numberOfLatestPostsToShow %}
+{% if morePosts > 0 %}
+<p>More posts in <a href="/blog/">the archive</a>.</p>
+{% endif %}
+</div>

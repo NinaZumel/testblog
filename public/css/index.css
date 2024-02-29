@@ -1,6 +1,6 @@
 /* Defaults */
 :root {
-	--font-family: -apple-system, system-ui, sans-serif;
+	--font-family: Georgia, Times, -serif; /* Tahoma, -apple-system, system-ui, sans-serif; */
 	--font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
 }
 
@@ -11,12 +11,13 @@
 	--color-gray-70: #4D4D4D;
 	--color-gray-90: #333;
 
+	--description-color: #9B9C9D;
 	--background-color: #fff;
 
 	--text-color: var(--color-gray-70);
-	--text-color-link: #32506d;
+	--text-color-link:  #32506d;
 	--text-color-link-active: #5f2b48;
-	--text-color-link-visited: #17050F;
+	--text-color-link-visited: var(--color-gray-50); /* #17050F; */
 
 	--syntax-tab-size: 2;
 }
@@ -25,10 +26,11 @@
 	:root {
 		--color-gray-20: #e0e0e0;
 		--color-gray-50: #C0C0C0;
+		--color-gray-70: #dad8d8;
 		--color-gray-90: #dad8d8;
 
 		/* --text-color is assigned to --color-gray-_ above.*/
-		--test-color: var(--color-gray-20);
+		--text-color: var(--color-gray-20);
 		--text-color-link: #1493fb;
 		--text-color-link-active: #6969f7;
 		--text-color-link-visited: #a6a6f8;
@@ -48,6 +50,7 @@ body {
 	padding: 0;
 	margin: 0 auto;
 	font-family: var(--font-family);
+	font-size: 18px;  /* a little bigger to accomodate a serif font */
 	color: var(--text-color);
 	background-color: var(--background-color);
 }
@@ -57,6 +60,23 @@ html {
 body {
 	max-width: 50em;
 }
+
+/* different horizontal rules  https://www.w3schools.com/howto/howto_css_dividers.asp */
+ /* Dashed border */
+ hr.dashed {
+	border-top: 1px dashed #bbb;
+  }
+  
+  /* Dotted border */
+  hr.dotted {
+	border-top: 1px dotted #bbb;
+  }
+  
+  /* Solid border */
+  hr.solid {
+	border-top: 1px solid #bbb;
+  }
+  
 
 /* 
 https://css-tricks.com/barebones-css-for-fluid-images/ 
@@ -117,6 +137,7 @@ li {
 
 a[href] {
 	color: var(--text-color-link);
+	text-decoration: none; 
 }
 a[href]:visited {
 	color: var(--text-color-link-visited);
@@ -143,10 +164,12 @@ header:after {
 }
 
 .links-nextprev {
+	text-align: center;
 	list-style: none;
 	border-top: 1px dashed var(--color-gray-20);
 	padding: 1em 0;
 }
+
 
 table {
 	margin: 1em 0;
@@ -218,7 +241,7 @@ header {
 .postlist {
 	list-style: none;
 	padding: 0;
-	padding-left: 1.5rem;
+	padding-left: 0; /* 1.5rem; */
 }
 .postlist-item {
 	display: flex;
@@ -226,7 +249,12 @@ header {
 	align-items: baseline;
 	counter-increment: start-from -1;
 	margin-bottom: 1em;
+	padding-bottom: 50px;
+	/* padding: 8px 16px; */
+	border-bottom: 1px dashed var(--color-gray-20);
 }
+
+/* 
 .postlist-item:before {
 	display: inline-block;
 	pointer-events: none;
@@ -235,6 +263,8 @@ header {
 	text-align: right;
 	margin-left: -1.5rem;
 }
+*/
+
 .postlist-date,
 .postlist-item:before {
 	font-size: 0.8125em; /* 13px /16 */
@@ -242,16 +272,18 @@ header {
 }
 .postlist-date {
 	word-spacing: -0.5px;
+	padding-left: .25em;
 }
 .postlist-link {
-	font-size: 1.1875em; /* 19px /16 */
-	font-weight: 700;
+	font-size: 1em; /* 1.1875em;  19px /16 */
+	font-weight: 700; 
 	flex-basis: calc(100% - 1.5rem);
 	padding-left: .25em;
 	padding-right: .5em;
 	text-underline-position: from-font;
 	text-underline-offset: 0;
-	text-decoration-thickness: 1px;
+	text-decoration: none; 
+	/* text-decoration-thickness: 1px; */
 }
 .postlist-item-active .postlist-link {
 	font-weight: bold;
@@ -280,6 +312,22 @@ header {
 }
 .post-metadata time {
 	margin-right: 1em;
+}
+
+.post-metadata li {
+	font-size: 0.875em;
+}
+
+/* metadata for posts and talks */
+
+.posttalk-metadata {
+	list-style: none;
+	padding-left: 0;
+	color: var(--description-color);
+}
+
+.posttalk-metadata li {
+	font-size: 1.1em;
 }
 
 /* Direct Links / Markdown Headers */
@@ -326,7 +374,7 @@ hr {
     justify-content: space-around;
     align-items: center;
     padding: 2rem 0;
-    background-color: #fff
+    background-color: var(--background-color0);
 	;
 }
 

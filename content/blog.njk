@@ -1,10 +1,12 @@
 ---
-layout: layouts/base.njk
+layout: layouts/home.njk
+title: Blog Archive
 eleventyNavigation:
-  key: Blog
+  key: Archive
   order: 2
 ---
-<h1>Technical Musings</h1>
+<h1>Post Archive</h1>
 
 {% set postslist = collections.posts %}
 {% include "postslist.njk" %}
+

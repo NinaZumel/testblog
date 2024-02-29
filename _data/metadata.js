@@ -1,11 +1,11 @@
 module.exports = {
-	title: "Nina B. Zumel",
+	title: "Short Thoughts",
 	url: "https://ninazumel.com/testblog",
 	language: "en",
-	description: "Data Scientist, San Francisco",
+	description: "Nina Zumel's Microblog",
 	author: {
 		name: "Nina B. Zumel",
-		email: "nzumel@win-vector.com",
+		email: "nzumel@mzlabs.com.com",
 		url: "https://ninazumel.com",
 		avatar: "/img/ninaheadshotsmall.jpeg"
 	}

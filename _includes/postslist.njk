@@ -2,8 +2,16 @@
 <ol reversed class="postlist">
 {% for post in postslist | reverse %}
 	<li class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
-		<a href="{{ post.url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
-		<time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate("LLLL yyyy") }}</time>
+		<a href="{{ post.url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}{{ post.date | readableDate("dd LLLL yyyy t") }}{% endif %}</a>
+		{% if post.data.title %}
+		   <time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate("dd LLLL yyyy t") }}</time>
+		   <p>{{ post.content | striptags(true) | truncate }}</p>
+        {% else %}
+		   {% set wordcount = post.content | wordcount  %}
+		   {% if wordcount < 500 %} {{ post.content | safe }} {% else %} <p>{{ post.content | striptags(true) | truncate }}</p> {% endif %}
+		{% endif %}
 	</li>
 {% endfor %}
 </ol>
+
+
