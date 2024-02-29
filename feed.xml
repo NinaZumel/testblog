@@ -1,136 +1,1095 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="en">
-	<title>Nina B. Zumel</title>
-	<subtitle>Data Scientist, San Francisco</subtitle>
+	<title>Short Thoughts</title>
+	<subtitle>Nina Zumel&#39;s Microblog</subtitle>
 	<link href="https://ninazumel.com/testblog/feed.xml" rel="self"/>
 	<link href="https://ninazumel.com/testblog/testblog"/>
-	<updated>2024-01-29T00:00:00Z</updated>
+	<updated>2024-02-26T11:12:00Z</updated>
 	<id>https://ninazumel.com/testblog</id>
 	<author>
 		<name>Nina B. Zumel</name>
-		<email>nzumel@win-vector.com</email>
+		<email>nzumel@mzlabs.com.com</email>
 	</author>
 	
 	<entry>
-		<title>Fun With Chat GPT</title>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2024-02-26-edwardo-and-consuelo/"/>
+		<updated>2024-02-26T11:12:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2024-02-26-edwardo-and-consuelo/</id>
+		<content type="html">&lt;p&gt;Episode 21 of my Darna translation project: &lt;a href=&quot;https://multoghost.wordpress.com/2024/02/26/1950s-darna-edwardo-and-consuelo/&quot;&gt;&lt;em&gt;Edwardo and Consuelo&lt;/em&gt;&lt;/a&gt;. I don&#39;t think highly of Edwardo and his player ways, to be honest.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2024-02-21-clarity-not-magic/"/>
+		<updated>2024-02-21T09:00:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2024-02-21-clarity-not-magic/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;https://ninazumel.com/blog/2024-02-21-clarity-not-magic/&quot;&gt;&lt;strong&gt;&lt;em&gt;Clarity, Not Magic&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;: in which I meditate on &amp;quot;magic&amp;quot; versus knowing what you are doing.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2024-02-19-blog-migration/"/>
+		<updated>2024-02-19T12:40:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2024-02-19-blog-migration/</id>
+		<content type="html">&lt;p&gt;Migrated &lt;em&gt;ninazumel.com&lt;/em&gt; to Eleventy from Jekyll. I&#39;m still not good at website building, but this is so much easier for me to wrap my arms around....&lt;a href=&quot;https://ninazumel.com/blog/2024-02-19-new-blogging-framework/&quot;&gt;Blog Migration&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2024-02-17-darna-santa-barbara/"/>
+		<updated>2024-02-17T16:24:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2024-02-17-darna-santa-barbara/</id>
+		<content type="html">&lt;p&gt;On to Episode 20 of my Darna translation project: &lt;a href=&quot;https://multoghost.wordpress.com/2024/02/17/1950s-darna-santa-barbara/&quot;&gt;&lt;em&gt;Santa Barbara&lt;/em&gt;&lt;/a&gt;. Everyone is beginning to converge in one place, though we aren&#39;t quite there yet.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2024-02-11-adventures-with-little-free-library/"/>
+		<updated>2024-02-11T10:48:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2024-02-11-adventures-with-little-free-library/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;https://multoghost.wordpress.com/2024/02/11/adventures-with-our-little-free-library/&quot;&gt;&lt;em&gt;Adventures With Our Little Free Library&lt;/em&gt;&lt;/a&gt; -- It&#39;s fun to see what your neighbors read.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2024-02-08-email-link/"/>
+		<updated>2024-02-08T10:32:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2024-02-08-email-link/</id>
+		<content type="html">&lt;p&gt;I don&#39;t know if anyone follows &lt;em&gt;Short Thoughts&lt;/em&gt; directly via RSS, but if so, I&#39;ve just added a &amp;quot;comment by email&amp;quot; link to the footer of the posts.&lt;/p&gt;
+&lt;p&gt;This was inspired by Amit Gawande&#39;s comment about &lt;a href=&quot;https://www.amitgawande.com/2024/01/21/i-wish-every.html&quot;&gt;email responding&lt;/a&gt; (and Commento).&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2024-02-07-darna-steps-up/"/>
+		<updated>2024-02-07T15:13:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2024-02-07-darna-steps-up/</id>
+		<content type="html">&lt;p&gt;Episode 19 of my Darna translation project: &lt;a href=&quot;https://multoghost.wordpress.com/2024/02/07/1950s-darna-darna-steps-up/&quot;&gt;&lt;em&gt;Darna Steps Up&lt;/em&gt;&lt;/a&gt;. We&#39;re moving slowly to to the Darna/Valentina confrontation ....&lt;/p&gt;
+&lt;p&gt;You can also see the influence of &lt;em&gt;Superman&lt;/em&gt; in Darna&#39;s apparent relationship with a big Manila newspaper.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2024-01-31-valentina-attacks/"/>
+		<updated>2024-01-31T15:50:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2024-01-31-valentina-attacks/</id>
+		<content type="html">&lt;p&gt;Episode 18 of my Darna translation project &lt;a href=&quot;https://multoghost.wordpress.com/2024/01/31/1950s-darna-valentina-attacks/&quot;&gt;Valentina Attacks&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I found this episode disturbingly violent for a 1950s-era comic. I knew what was going to happen, since I&#39;m reading ahead relative to what I post, but working on it kinda put me in a dark place. Even pre-code E.C. comics, as graphic as the violence might be, is still fairly, well, cartoonish. This, for me, was not.&lt;/p&gt;
+&lt;p&gt;I&#39;d be curious if other readers react the same way I did.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
 		<link href="https://ninazumel.com/testblog/blog/2024-01-29-fun-with-chatgpt/"/>
-		<updated>2024-01-29T00:00:00Z</updated>
+		<updated>2024-01-29T13:54:00Z</updated>
 		<id>https://ninazumel.com/testblog/blog/2024-01-29-fun-with-chatgpt/</id>
-		<content type="html">&lt;p&gt;So, my husband typed this into ChatGPT 3.5:&lt;/p&gt;
+		<content type="html">&lt;p&gt;Playing silly games: &lt;a href=&quot;https://ninazumel.com/2024/01/29/fun-with-chatgpt.html&quot;&gt;Fun With Chat GPT&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2024-01-26-darna-vs-the-kapre/"/>
+		<updated>2024-01-26T13:46:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2024-01-26-darna-vs-the-kapre/</id>
+		<content type="html">&lt;p&gt;Episode 17 of my Darna translation project: &lt;a href=&quot;https://multoghost.wordpress.com/2024/01/26/1950s-darna-darna-vs-the-kapre/&quot;&gt;Darna vs the Kapre&lt;/a&gt;. A kapre is a tree-dwelling, cigar-smoking orge of Filipino folklore.  A little standalone tale before we go back to the Valentina saga.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2024-01-21-secret-of-the-pointed-tower/"/>
+		<updated>2024-01-21T14:38:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2024-01-21-secret-of-the-pointed-tower/</id>
+		<content type="html">&lt;p&gt;📚 Finished an interesting collection of Golden Age mystery short stories, &lt;em&gt;The Secret of the Pointed Tower&lt;/em&gt;, by French author Pierre Véry. &lt;a href=&quot;https://multoghost.wordpress.com/2024/01/21/the-secret-of-the-pointed-tower/&quot;&gt;My review here.&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2024-01-19-darnas-back/"/>
+		<updated>2024-01-19T10:45:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2024-01-19-darnas-back/</id>
+		<content type="html">&lt;p&gt;Oh well, as long as I&#39;m here: &lt;a href=&quot;https://multoghost.wordpress.com/2024/01/18/1950s-darna-darna-returns/&quot;&gt;Episode 16 of Darna vs. Valentina&lt;/a&gt;. Halfway through the story, and Darna &lt;em&gt;finally&lt;/em&gt; shows up again.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2024-01-19-wordpress-com/"/>
+		<updated>2024-01-19T10:17:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2024-01-19-wordpress-com/</id>
+		<content type="html">&lt;p&gt;So wordpress.com won&#39;t admit my website exists, except when it does. Meaning, you can see it, you can email or RSS subscribe to it (and get notifications), but it won&#39;t show up in the wordpress.com reader if you aren&#39;t subscribed.&lt;/p&gt;
+&lt;p&gt;Ironically, I discovered this when someone tried to &lt;em&gt;unsubscribe&lt;/em&gt;, and couldn&#39;t because &amp;quot;the site doesn&#39;t exist&amp;quot;.&lt;/p&gt;
+&lt;p&gt;I emailed support; they read the (unhelpful) web-available doc pages back at me. Nice.&lt;/p&gt;
+&lt;p&gt;I suspect it&#39;s a shadowban because I&#39;ve been unthinkingly profligate with links in recent posts. My fault, and I will stop, but I&#39;d like them to confirm to me they did that, and undo it, please, before I start screaming paranoid accusations at support.&lt;/p&gt;
+&lt;p&gt;(PS, I&#39;m talking about &lt;em&gt;multoghost.wordpress.com&lt;/em&gt;, not &lt;em&gt;ninazumel.com&lt;/em&gt;, which is on Github Pages.)&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2024-01-14-darna-back-to-edwardo/"/>
+		<updated>2024-01-14T13:31:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2024-01-14-darna-back-to-edwardo/</id>
+		<content type="html">&lt;p&gt;Episode 14 (and 15) of the Darna vs Valentina saga: &lt;a href=&quot;https://multoghost.wordpress.com/2024/01/14/1950s-darna-back-to-edwardo/&quot;&gt;Back to Edwardo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I know Valentina is the villain of the piece, but I really freel kinda sorry for her just now.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2024-01-14-my-search-engines/"/>
+		<updated>2024-01-14T09:45:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2024-01-14-my-search-engines/</id>
+		<content type="html">&lt;p&gt;I keep seeing these articles everywhere now about how Google results are getting SO MUCH worse. So terrible! So many splogs! I stopped using Google as my primary search engine a long time ago, in favor of DuckDuckGo -- more because I don&#39;t like Google&#39;s invasiveness and spying than anything else -- but I do occasionally go back to Google when DuckDuckGo fails me. And to be honest, I can&#39;t say that I&#39;ve noticed what other people complain about, at least not so dramatically (though I do agree that searches that used to succeed, like for exact long quotes, no longer do).&lt;/p&gt;
+&lt;p&gt;There&#39;s a lot of possible reasons for this. I might just be a slowly boiling frog, and haven&#39;t realized it yet. I might have learned to unconsciously and automatically skim past junk results (I find I often skip right over the top result). I&#39;m never logged into Google. I always clear my cookies and cache when I log out of my brower. I use uBlock Origin. It might just be the kind of stuff I search for, or the way I query. Who knows?&lt;/p&gt;
+&lt;p&gt;But I from all these articles, and the associated comment threads, I&#39;ve found a lot of alternative search engines, and I tried a few. I&#39;ve started using &lt;a href=&quot;https://www.startpage.com/&quot;&gt;Startpage&lt;/a&gt; as my Google proxy, for more anonymity. I&#39;ve found that the results are not the same as directly querying Google, but they are pretty good and sometimes better (less sploggy, even). DuckDuckGo and Startpage/Google are still my go-tos, but I&#39;ve added a few more back-up engines, too:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mojeek.com/&quot;&gt;Mojeek&lt;/a&gt; has its own search index. &lt;a href=&quot;https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/&quot;&gt;sierdy&lt;/a&gt; called this the best alternative to the Google-Bing-Yandex index trifecta. I&#39;d call it good, not great. Seems to surface mostly older pages (which can be useful sometimes). Has advanced search (remember that?), and a beta-version Substack specific search engine, which I haven&#39;t tried. Less good for &lt;em&gt;what&#39;s the answer?&lt;/em&gt;, better for &lt;em&gt;what else is out there?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://search.marginalia.nu/&quot;&gt;Marginalia&lt;/a&gt; is maybe more interesting than &amp;quot;useful,&amp;quot; depending on why you are browsing. It focuses on indexing the &amp;quot;small web,&amp;quot; and as the developer says:&lt;/li&gt;
+&lt;/ul&gt;
 &lt;blockquote&gt;
-&lt;p&gt;What are some English words that are 4 letters long, start with f, and end with k?&lt;/p&gt;
+&lt;p&gt;It’s perhaps not the greatest at finding what you already knew was there. Instead it is designed to help you find some things you didn’t even know you were looking for.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;According to ChatGPT, there was only one word that fit that criterion: &lt;em&gt;fork&lt;/em&gt;.  Upon prodding, it admitted that there were maybe a few more:&lt;/p&gt;
-&lt;img alt=&quot;Screenshot from ChatGPT 3.5&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://ninazumel.com/testblog/img/chatgpt_fk-DwBxoayKTh-400.png&quot; width=&quot;3182&quot; height=&quot;2287&quot; srcset=&quot;https://ninazumel.com/testblog/img/chatgpt_fk-DwBxoayKTh-400.png 400w, https://ninazumel.com/testblog/img/chatgpt_fk-DwBxoayKTh-800.png 800w, https://ninazumel.com/testblog/img/chatgpt_fk-DwBxoayKTh-1200.png 1200w, https://ninazumel.com/testblog/img/chatgpt_fk-DwBxoayKTh-3182.png 3182w&quot; sizes=&quot;100vw&quot;&gt;
-&lt;p&gt;Typing a similar query into DuckDuckGo (&lt;em&gt;4 letter word starting with f ending with k&lt;/em&gt;) produced a page full of links to various crossword puzzle and Scrabble dictionaries. The first link gave me seven words. A little further down, I found a link that gave me thirteen words: faik, fank, feck, filk, fink, firk, fisk, flak, folk, fork, funk, fusk, and of course, &amp;quot;the F-word.&amp;quot;&lt;/p&gt;
-&lt;p&gt;I&#39;m sure that ChatGPT has filters to eliminate profanity, and admittedly, not all the above words are &amp;quot;common,&amp;quot; but, come on -- &lt;em&gt;folk&lt;/em&gt;? &lt;em&gt;funk&lt;/em&gt;? &lt;em&gt;flak&lt;/em&gt;??  I particularly like &lt;em&gt;feck&lt;/em&gt;, though I never hear of anyone being &amp;quot;full of feck,&amp;quot; only &amp;quot;feckless&amp;quot; ...&lt;/p&gt;
-&lt;p&gt;I&#39;m sure GPT-4 does better, but I don&#39;t care to pay to find out.&lt;/p&gt;
+&lt;p&gt;It&#39;s another &lt;em&gt;what else is out there?&lt;/em&gt; kind of search engine, and while I don&#39;t lean on it much, I always click through to it (Firefox makes it easy to cycle a query through multiple search engines), just to see what&#39;s there.&lt;/p&gt;
+&lt;p&gt;The same developer made a &lt;a href=&quot;https://explore2.marginalia.nu/&quot;&gt;Similar Website Finder&lt;/a&gt; which is also kind of fun. Type your own website in and see what it suggests!&lt;/p&gt;
+&lt;p&gt;Oh, and by the way, &lt;a href=&quot;https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/&quot;&gt;sierdy&#39;s page of alternative search indexes&lt;/a&gt; that I link to above is quite informative and interesting. Do check it out.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
-		<title>The Sphering Transform for Detecting Distribution Drift</title>
-		<link href="https://ninazumel.com/testblog/blog/2023-08-21-the-sphering-transform/"/>
-		<updated>2023-08-21T00:00:00Z</updated>
-		<id>https://ninazumel.com/testblog/blog/2023-08-21-the-sphering-transform/</id>
-		<content type="html">&lt;p&gt;I have a new blog post up on the Win Vector blog: &lt;a href=&quot;https://win-vector.com/2023/08/20/detecting-data-differences-using-the-sphering-transform/&quot;&gt;Detecting Data Differences Using the Sphering Transform&lt;/a&gt;.&lt;/p&gt;
-&lt;img alt=&quot;Distributions of sphered norms for two data sets with different distributions&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://ninazumel.com/testblog/img/new_raw_comp_xformed-s2pbz_kSJE-200.png&quot; width=&quot;609&quot; height=&quot;470&quot; srcset=&quot;https://ninazumel.com/testblog/img/new_raw_comp_xformed-s2pbz_kSJE-200.png 200w, https://ninazumel.com/testblog/img/new_raw_comp_xformed-s2pbz_kSJE-400.png 400w, https://ninazumel.com/testblog/img/new_raw_comp_xformed-s2pbz_kSJE-609.png 609w&quot; sizes=&quot;100vw&quot;&gt;
-&lt;p&gt;In this post, I discuss how to convert the problem of detecting changes in multivariate distributions to the simpler problem of detecting changes in univariate distributions. Please check it out.&lt;/p&gt;
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2024-01-11-welcome-to-our-world/"/>
+		<updated>2024-01-11T11:58:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2024-01-11-welcome-to-our-world/</id>
+		<content type="html">&lt;p&gt;I&#39;ve been watching the current kerfluffle and its aftermath at Micro.blog. I have to say that my immediate reaction to the person who took offense was &amp;quot;welcome to the world the rest of us live in.&amp;quot;&lt;/p&gt;
+&lt;p&gt;By which I mean so many people who live as a member of a minority group spend a good part of their brain cells constantly deciding to &amp;quot;pick their battles&amp;quot; when someone else says something that bothers or even offends them. And then, if they do say something, having to defend their reaction when the other person says &amp;quot;I didn&#39;t mean anything by it....&amp;quot; (and in this case, I do believe the first person didn&#39;t &amp;quot;mean anything&amp;quot; insulting by their statement).&lt;/p&gt;
+&lt;p&gt;It sucks to be in that situation. In an ideal world, we&#39;d never have &amp;quot;-isms&amp;quot;. In my opinion, an -ism is bad when it&#39;s directed even at member of a privileged class.  But it&#39;s not &lt;strong&gt;worse&lt;/strong&gt;. And the unstated but definitely acted upon premise is that it is indeed &amp;quot;worse&amp;quot; -- and that is what (greviously) offends me, and I suspect other people as well.&lt;/p&gt;
+&lt;p&gt;And now I will shut up and go back to translating Filipino comics.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
-		<title>Pandas-Polars Rosetta Stone</title>
-		<link href="https://ninazumel.com/testblog/blog/2023-04-10-pandas-polars-rosetta-stone/"/>
-		<updated>2023-04-10T00:00:00Z</updated>
-		<id>https://ninazumel.com/testblog/blog/2023-04-10-pandas-polars-rosetta-stone/</id>
-		<content type="html">&lt;p&gt;Just created a &lt;a href=&quot;https://github.com/WinVector/Examples/blob/main/pandas_polars_rosettastone/rosetta.ipynb&quot;&gt;handy little Rosetta stone&lt;/a&gt; of common data operations using both the &lt;code&gt;pandas&lt;/code&gt; and &lt;code&gt;polars&lt;/code&gt; libraries. Maybe you&#39;ll find it useful, too.&lt;/p&gt;
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2024-01-09-darna-the-aftermath/"/>
+		<updated>2024-01-09T10:27:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2024-01-09-darna-the-aftermath/</id>
+		<content type="html">&lt;p&gt;Starting up my Filipino comics translation project for the new year. Here&#39;s Episode 13 of the Darna saga: &lt;a href=&quot;https://multoghost.wordpress.com/2024/01/08/1950s-darna-the-aftermath/&quot;&gt;The Aftermath&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;There are two pages missing in the scan, but Simon Santos at Video48 provided a summary of the missing pages, which I translated and inserted in the issue.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
-		<title>The What, Why, and How of AB Testing</title>
-		<link href="https://ninazumel.com/testblog/blog/2023-04-06-what-why-how-abtesting/"/>
-		<updated>2023-04-07T00:00:00Z</updated>
-		<id>https://ninazumel.com/testblog/blog/2023-04-06-what-why-how-abtesting/</id>
-		<content type="html">&lt;p&gt;&lt;em&gt;This article is a shortened version of a &lt;a href=&quot;https://www.wallaroo.ai/blog/the-what-why-and-how-of-a/b-testing&quot;&gt;post from the Wallaroo Blog&lt;/a&gt;, originally written by &lt;a href=&quot;https://www.linkedin.com/in/juliobarros/&quot;&gt;Julio Barros&lt;/a&gt; and me. I&#39;m posting the non-Wallaroo section of that article here, with permission, because I think it&#39;s a useful reference for A/B testing---one that I refer to myself. Hopefully, others find it helpful as well.&lt;/em&gt;&lt;/p&gt;
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2024-01-02-literary-sleuthing/"/>
+		<updated>2024-01-02T14:17:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2024-01-02-literary-sleuthing/</id>
+		<content type="html">&lt;p&gt;Over Christmas break, a researcher for the Internet Speculative Fiction Database &lt;a href=&quot;https://darktalessleuth.wordpress.com/2021/06/04/notes-on-the-tigers-cave/comment-page-1/#comment-29&quot;&gt;left a comment on a post&lt;/a&gt; at my blog &lt;em&gt;Dark Tales Sleuth&lt;/em&gt;. This is a blog I put up to support my projects in literary sleuthing: that is, tracking down proper author/translator attributions and provenance of uncredited (or miscredited) stories---a thing you come across a lot if you like to read short fiction from nineteenth century periodicals or anthologies. The amount of copypasta and plagiarism is staggering. Even the &lt;em&gt;New York Times&lt;/em&gt; wasn&#39;t above it.&lt;/p&gt;
+&lt;p&gt;The story in question was one I&#39;d identified as probably being an English translation of a story from a Danish literary journal, that was possibly itself a translation from another language. Maybe even English? That would be funny. Thanks to leads my commenter gave me, I did find a German version of the story that may be the original. Maybe. And &lt;a href=&quot;https://darktalessleuth.wordpress.com/2024/01/01/revisiting-the-tigers-cave/&quot;&gt;I wrote about it here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Not that I expect anyone to be interested in the story itself -- to be honest, even I don&#39;t like it. But literary sleuthing is a fun form of internet research and puzzle solving: running down virtual rabbit holes, figuring out exactly what query---and on which search engine---will get what you want, finding all kinds of cool archives you didn&#39;t know about before.... It&#39;s some of the same impulse, perhaps, that motivates people who like dig into true crime, or into internet drama: can I find something no one else has? Can I see or think of what no one else has seen or thought of?&lt;/p&gt;
+&lt;p&gt;Literary sleuthing is less salacious, but also more benign: after all, everyone involved is long gone, and no living person&#39;s reputation can be harmed. It&#39;s just a harmless intellectual pasttime. At any rate, I like doing it, and I like reading about other people doing it, and maybe you will, too.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-12-31-misers-ghost/"/>
+		<updated>2023-12-31T10:10:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-12-31-misers-ghost/</id>
+		<content type="html">&lt;p&gt;The last winter tale for 2023 (but one more coming for 2024): A New Year&#39;s eve ghost story from Canada -- a sort of &amp;quot;reverse Christmas Carol.&amp;quot; In &lt;a href=&quot;https://multoghost.wordpress.com/2023/12/31/the-misers-ghost/&quot;&gt;&amp;quot;The Miser&#39;s Ghost&amp;quot;&lt;/a&gt;, a man lost in the snow on New Year&#39;s eve seeks shelter at a mysterious cabin he&#39;s never seen before.&lt;/p&gt;
+&lt;p&gt;Enjoy, and Happy New Year, everyone!&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-12-29-the-ghostly-rental/"/>
+		<updated>2023-12-29T11:25:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-12-29-the-ghostly-rental/</id>
+		<content type="html">&lt;p&gt;Winter themed ghost stories keep coming until Epiphany! The first of two for New Year&#39;s weekend is &lt;a href=&quot;https://ninazumel.com/testblog/blog/2023-12-29-the-ghostly-rental/%5Bhttps:/multoghost.wordpress.com/2023/12/29/the-ghostly-rental/%5D(https:/multoghost.wordpress.com/2023/12/29/the-ghostly-rental/)&quot;&gt;&amp;quot;The Ghostly Rental&amp;quot;&lt;/a&gt; by Henry James, about a house that&#39;s being rented out---to a ghost!&lt;/p&gt;
+&lt;p&gt;This is early James, during his &amp;quot;readable&amp;quot; period, so even if you hate late James, you still might enjoy this one.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-12-24-white-witch/"/>
+		<updated>2023-12-24T09:19:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-12-24-white-witch/</id>
+		<content type="html">&lt;p&gt;Enjoy a Christmas Eve fairy tale from Mary Wilkins Freeman: &lt;a href=&quot;https://multoghost.wordpress.com/2023/12/24/the-white-witch/&quot;&gt;The White Witch&lt;/a&gt;. Wishing a Merry Christmas to all who celebrate, and a beautiful day to all who don&#39;t.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-12-22-steamboat-willie-pd/"/>
+		<updated>2023-12-22T14:53:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-12-22-steamboat-willie-pd/</id>
+		<content type="html">&lt;p&gt;In other news &lt;a href=&quot;https://pluralistic.net/2023/12/15/mouse-liberation-front/&quot;&gt;&lt;em&gt;Steamboat Willie&lt;/em&gt; goes into the (U.S.) public domain on January 1, 2024&lt;/a&gt;! Which means that the 1928 instantiation(s) of Mickey Mouse also goes PD. Honestly never thought I&#39;d see the day, thought they&#39;d push it out forever.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-12-22-the-twelfth-guest/"/>
+		<updated>2023-12-22T14:32:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-12-22-the-twelfth-guest/</id>
+		<content type="html">&lt;p&gt;Today, a low-key, mildly supernatural Christmas tale: &lt;a href=&quot;https://multoghost.wordpress.com/2023/12/22/the-twelfth-guest/&quot;&gt;The Twelfth Guest&lt;/a&gt;. Not quite a &amp;quot;ghost story,&amp;quot; but still a good story for the season. Plus, I really like Mary Wilkins Freeman.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-12-15-valentina-reveals-all/"/>
+		<updated>2023-12-15T12:43:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-12-15-valentina-reveals-all/</id>
+		<content type="html">&lt;p&gt;Hey, I had time for another blog post today! Here&#39;s the next episode of my ongoing Darna comic book translation project: Episode 11 - &lt;a href=&quot;https://multoghost.wordpress.com/2023/12/15/1950s-darna-valentina-reveals-all/&quot;&gt;Valentina Reveals All&lt;/a&gt;. Valentina finally takes Kobra&#39;s dare, and reveals her true self to the town.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-12-15-warned-by-the-wire/"/>
+		<updated>2023-12-15T09:38:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-12-15-warned-by-the-wire/</id>
+		<content type="html">&lt;p&gt;This week&#39;s Christmas Ghost Story is a tale of haunted technology from California! In &lt;a href=&quot;https://multoghost.wordpress.com/2023/12/15/warned-by-the-wire/&quot;&gt;Warned by the Wire&lt;/a&gt;, a telegraph operator&#39;s receiver tells him things he doesn&#39;t want to know. Written by the inventor of the ur-jukebox!&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-12-08-La-Corriveau/"/>
+		<updated>2023-12-08T09:03:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-12-08-La-Corriveau/</id>
+		<content type="html">&lt;p&gt;Today&#39;s Winter Tale is from Canada!  &lt;a href=&quot;https://multoghost.wordpress.com/2023/12/08/la-corriveau/&quot;&gt;&lt;em&gt;La Corriveau&lt;/em&gt;&lt;/a&gt; is a story based on the real-life Canadian murderess &lt;a href=&quot;https://en.wikipedia.org/wiki/Marie-Josephte_Corriveau&quot;&gt;Marie-Josephte Corriveau&lt;/a&gt;, whose folkloric reputation is somewhat more colorful than her actual deed might imply.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-12-01-ghost-in-the-mill/"/>
+		<updated>2023-12-01T15:54:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-12-01-ghost-in-the-mill/</id>
+		<content type="html">&lt;p&gt;Today, the first ghost story of Winter Tales season: &lt;a href=&quot;https://multoghost.wordpress.com/2023/12/01/winter-tales-2023-the-ghost-in-the-mill/&quot;&gt;The Ghost in the Mill&lt;/a&gt;, by Harriet Beecher Stowe. Yes, she of &lt;em&gt;Uncle Tom&#39;s Cabin&lt;/em&gt; fame. Sam Lawson tells us the story of Captain Eb Sawin and what he experienced at old Cack Sparrock’s mill….&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-11-24-a-drink-from-the-cup/"/>
+		<updated>2023-11-24T09:49:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-11-24-a-drink-from-the-cup/</id>
+		<content type="html">&lt;p&gt;It&#39;s about time to start my annual Christmas season tradition of sharing Winter Tales (Christmas Ghost Stories) on my blog. Here&#39;s an early pre-season treat, from an early African-American periodical: &lt;a href=&quot;https://multoghost.wordpress.com/2023/11/24/a-drink-from-the-cup-a-pre-winter-tale-treat/&quot;&gt;A Drink From the Cup&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-11-20-baybeats/"/>
+		<updated>2023-11-20T17:51:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-11-20-baybeats/</id>
+		<content type="html">&lt;p&gt;I&#39;ve been streaming music from &lt;a href=&quot;https://baybeats.sfpl.org/albums&quot;&gt;BayBeats&lt;/a&gt;, a (curated) music streaming service sponsored by the San Francisco Public Library, featuring music by local SF Bay Area artists. It&#39;s free to the public, but you need an SFPL library card to download. It&#39;s been a great way to discover local artists I didn&#39;t know about. I hope other municipalities start doing the same thing, too.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-11-17-Valentina-Amazes/"/>
+		<updated>2023-11-17T16:40:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-11-17-Valentina-Amazes/</id>
+		<content type="html">&lt;p&gt;Installment 11 of my 1950s Filipino Darna comics translation project: &lt;a href=&quot;https://multoghost.wordpress.com/2023/11/17/1950s-darna-valentina-amazes-the-townspeople/&quot;&gt;Valentina Amazes the Townspeople&lt;/a&gt;. Things just keep getting stranger.....&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-11-03-stories-of-snake-twins/"/>
+		<updated>2023-11-03T14:59:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-11-03-stories-of-snake-twins/</id>
+		<content type="html">&lt;p&gt;A bit of Filipino folklore I only recently learned about: &lt;a href=&quot;https://multoghost.wordpress.com/2023/11/03/stories-of-snake-twins/&quot;&gt;snake-twins&lt;/a&gt;. Yes, people who allegedly were born with snakes for twin siblings. Such people, &lt;em&gt;kambal-ahas&lt;/em&gt;, can reputedly cure snake bites and other ailments, and communicate with snakes. Sometimes they&#39;re said to have other supernatural abilities, too. Fun stuff.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-09-17-Valentina-as-the-Virgin/"/>
+		<updated>2023-09-17T16:42:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-09-17-Valentina-as-the-Virgin/</id>
+		<content type="html">&lt;p&gt;Installment 10 of my 1950s Filipino Darna comics translation project: &lt;a href=&quot;https://multoghost.wordpress.com/2023/09/17/1950s-darna-valentina-as-the-virgin/&quot;&gt;&lt;em&gt;Valentina as the Virgin?&lt;/em&gt;&lt;/a&gt;. Edwardo said Valentina would be worshipped for her beauty---and he may be right, but not quite the way he meant.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-09-10-valentina-arrives-in-town/"/>
+		<updated>2023-09-10T14:40:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-09-10-valentina-arrives-in-town/</id>
+		<content type="html">&lt;p&gt;Installment 9 of my 1950s Filipino Darna comics translation project: &lt;a href=&quot;https://multoghost.wordpress.com/2023/09/10/1950s-darna-valentina-arrives-in-town/&quot;&gt;&lt;em&gt;Valentina Arrives in Town&lt;/em&gt;&lt;/a&gt;. At Kobra&#39;s behest, Valentina visits a town for her first encounter with people besides her parents and Edwardo.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-09-01-twelve-medieval-ghost-stories/"/>
+		<updated>2023-09-01T17:48:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-09-01-twelve-medieval-ghost-stories/</id>
+		<content type="html">&lt;p&gt;So I found an early translation of the Byland Abbey ghost stories (first published by M.R. James in 1922) on Github, of all places. So of course I had to fork the repo to &lt;a href=&quot;https://github.com/NinaZumel/TwelveMedievalGhostStories/blob/master/English/english.md&quot;&gt;make a more online readable version&lt;/a&gt;. Because that&#39;s what I do.&lt;/p&gt;
+&lt;p&gt;They are fun, though.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-08-26-darna-valentina-the-plot-thickens/"/>
+		<updated>2023-08-26T22:09:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-08-26-darna-valentina-the-plot-thickens/</id>
+		<content type="html">&lt;p&gt;Two episodes of my 1950&#39;s Filipino Darna comics translation project this weekend, to make up for the delay between installments 6 and 7. Here&#39;s &lt;a href=&quot;https://multoghost.wordpress.com/2023/08/26/1950s-darna-the-plot-thickens/&quot;&gt;installment 8&lt;/a&gt;. Things are beginning to get complicated.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-08-25-valentina-falls-in-love/"/>
+		<updated>2023-08-25T17:09:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-08-25-valentina-falls-in-love/</id>
+		<content type="html">&lt;p&gt;Installment 7 of my 1950s Filipino Darna comics translation project: &lt;a href=&quot;https://multoghost.wordpress.com/2023/08/25/1950s-darna-valentina-falls-in-love/&quot;&gt;&lt;em&gt;Valentina Falls in Love&lt;/em&gt;&lt;/a&gt;. I guess she doesn&#39;t hate the human race as much as she says. At least, not all of it.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-08-21-sphering-transform/"/>
+		<updated>2023-08-21T09:15:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-08-21-sphering-transform/</id>
+		<content type="html">&lt;p&gt;I have a new blog post up on the Win Vector blog: &lt;a href=&quot;https://win-vector.com/2023/08/20/detecting-data-differences-using-the-sphering-transform/&quot;&gt;Detecting Data Differences Using the Sphering Transform&lt;/a&gt;, where I discuss how to convert the problem of detecting changes in multivariate distributions to the simpler problem of detecting changes in univariate distributions. Please check it out.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-08-05-goddess-of-snakes/"/>
+		<updated>2023-08-05T17:54:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-08-05-goddess-of-snakes/</id>
+		<content type="html">&lt;p&gt;Installment 6 of my 1950s Filipino Darna comics translation project: &lt;a href=&quot;https://multoghost.wordpress.com/2023/08/05/1950s-darna-goddess-of-snakes/&quot;&gt;&lt;em&gt;Goddess of Snakes&lt;/em&gt;&lt;/a&gt;. Valentina plots to reclaim the world back from the human race!&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-07-22-valentinas-mission/"/>
+		<updated>2023-07-22T18:33:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-07-22-valentinas-mission/</id>
+		<content type="html">&lt;p&gt;Installment 5 of my 1950s Filipino Darna comics translation project: &lt;a href=&quot;https://multoghost.wordpress.com/2023/07/22/1950s-darna-valentinas-mission/&quot;&gt;&lt;em&gt;Valentina&#39;s Mission&lt;/em&gt;&lt;/a&gt;. I said Darna will come back soon, but I was wrong. The story is heating up, though.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-07-16-valentina-breaks-free/"/>
+		<updated>2023-07-16T18:19:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-07-16-valentina-breaks-free/</id>
+		<content type="html">&lt;p&gt;On to &lt;a href=&quot;https://multoghost.wordpress.com/2023/07/16/1950s-darna-valentina-breaks-free/&quot;&gt;Installment 4&lt;/a&gt; of my 1950s Filipino Darna comics translation project: &lt;em&gt;Valentina Breaks Free&lt;/em&gt;. One more Valentina-focused episode, and we&#39;ll finally see Darna again!&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-06-17-darna-03/"/>
+		<updated>2023-06-17T18:41:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-06-17-darna-03/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;https://multoghost.wordpress.com/2023/06/17/1950s-darna-valentina-grows-up/&quot;&gt;Installment 3&lt;/a&gt; of my 1950s Filipino Darna comics translation project is now up: Valentina grows up.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-06-04-birth-of-valentina/"/>
+		<updated>2023-06-04T10:22:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-06-04-birth-of-valentina/</id>
+		<content type="html">&lt;p&gt;New project to translate the available 1950s Filipino Darna comics! I&#39;ve done Darna&#39;s origin; now &lt;a href=&quot;https://multoghost.wordpress.com/2023/06/03/1950s-darna-the-birth-of-valentina/&quot;&gt;here&#39;s installment two&lt;/a&gt;: the birth of Darna&#39;s enemy Valentina.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-05-29-darna-origin/"/>
+		<updated>2023-05-29T12:11:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-05-29-darna-origin/</id>
+		<content type="html">&lt;p&gt;Just for fun, I translated an old 1950s Filipino comic book story: &lt;a href=&quot;https://multoghost.wordpress.com/2023/05/29/darna-filipina-superhero/&quot;&gt;The origin of the superhero Darna&lt;/a&gt;. Created by Mars Ravelo, drawn by Nestor Redondo. Mostly so I could read it, myself.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-05-12-do-justly-now/"/>
+		<updated>2023-05-12T13:05:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-05-12-do-justly-now/</id>
+		<content type="html">&lt;p&gt;Do not be daunted &lt;br&gt;
+by the enormity&lt;br&gt;
+of the world&#39;s grief. &lt;br&gt;
+Do justly, now. &lt;br&gt;
+Love mercy, now. &lt;br&gt;
+Walk humbly, now. &lt;br&gt;
+You are not obligated &lt;br&gt;
+to complete the work, &lt;br&gt;
+but neither are you free &lt;br&gt;
+to abandon it. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Commonly attributed to The Talmud. Attributed &lt;a href=&quot;https://www.goodreads.com/author/quotes/3256117.Annesley_William_Streane&quot;&gt;here&lt;/a&gt; to &lt;a href=&quot;https://4enoch.org/wiki5/index.php/Annesley_William_Streane_(1844-1915),_scholar&quot;&gt;Annesley William Streane&lt;/a&gt; (1844-1915), a Cambridge scholar and Old Testament translator and commentator.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://reformjudaism.org/beliefs-practices/spirituality/3-jewish-reminders-when-world-seems-overwhelming&quot;&gt;This source&lt;/a&gt; attributes the quote to &lt;a href=&quot;https://en.wikipedia.org/wiki/Rabbi_Tarfon&quot;&gt;Rabbi Tarfon&lt;/a&gt;, in the &lt;em&gt;Pirkei Avot&lt;/em&gt;, commenting on &lt;em&gt;Micah&lt;/em&gt; 6:8. See also this &lt;a href=&quot;https://www.reddit.com/r/Judaism/comments/2d1w2k/quote_from_the_talmud_do_you_know_where/&quot;&gt;reddit thread&lt;/a&gt;. So I suppose the quote must be from Streane&#39;s translation of Tarfon&#39;s commentary.&lt;/p&gt;
+&lt;p&gt;Either way, it&#39;s a beautiful passage.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-05-02-mark-denton/"/>
+		<updated>2023-05-02T16:05:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-05-02-mark-denton/</id>
+		<content type="html">&lt;p&gt;Golden Age Comics meets Old Time Radio!  Here&#39;s a story from a 1953 comic book I adapted into a Mysterious Traveler radio script: &lt;a href=&quot;https://exiw.wordpress.com/2023/05/01/the-vengeance-of-mark-denton/&quot;&gt;The Vengeance of Mark Denton&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-04-30-sangster/"/>
+		<updated>2023-04-30T12:42:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-04-30-sangster/</id>
+		<content type="html">&lt;p&gt;📽️ Had myself a &lt;a href=&quot;https://multoghost.wordpress.com/2023/04/30/three-thrillers-by-jimmy-sangster/&quot;&gt;Jimmy Sangster mini film fest&lt;/a&gt;: not Hammer gothics but suspense thrillers (two by Hammer). One was &lt;em&gt;Scream of Fear&lt;/em&gt; (1961), a movie that doesn&#39;t get nearly enough love, IMHO.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-04-24-eternal-stooge/"/>
+		<updated>2023-04-24T17:22:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-04-24-eternal-stooge/</id>
+		<content type="html">&lt;p&gt;📚 &lt;a href=&quot;https://exiw.wordpress.com/2023/04/23/the-eternal-stooge/&quot;&gt;&amp;quot;The Eternal Stooge&amp;quot;&lt;/a&gt;  is a devil&#39;s bargain tale (text, not graphic art) that I found in a remaindered collection[^1] of Pre-Code horror comics. Most prose tales in comic books are pretty forgettable, but this one was cute, so I transcribed it.&lt;/p&gt;
+&lt;p&gt;The frustrated straight-man to a famous comedian longs for a serious acting career. He sees his chance in a new Broadway production of Marlowe&#39;s &lt;em&gt;Dr. Faustus&lt;/em&gt;. But perhaps he should have waited for a play with a happier ending....&lt;/p&gt;
+&lt;p&gt;[^1]: Pre-Code Classics: &lt;em&gt;The Unseen&lt;/em&gt; Volume 1, PS Artbooks, 2017&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-04-16-hypercard/"/>
+		<updated>2023-04-16T08:48:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-04-16-hypercard/</id>
+		<content type="html">&lt;blockquote&gt;
+&lt;p&gt;James Sime at Isotope Comics (in San Francisco) just released a &lt;a href=&quot;https://archive.org/details/hypercard_neuroblast-hypercard-diskzine&quot;&gt;&amp;quot;Hypercard Zine&amp;quot;&lt;/a&gt; that speaks to the cyberpunk times we&#39;re living in. Hosted at the Internet Archive, running on a vintage classic Mac OS.  (Hypercard was a circa 1987 tech that let people create hypertext documents long before &lt;a href=&quot;https://home.cern/science/computing/birth-web&quot;&gt;CERN&lt;/a&gt; published its first HTML page.)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;From the Borderlands Bookstore newsletter. The &#39;zine runs on IA&#39;s retro game emulator, and it&#39;s kinda wonderful.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-04-10-polars-pandas-rosetta-stone/"/>
+		<updated>2023-04-10T18:13:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-04-10-polars-pandas-rosetta-stone/</id>
+		<content type="html">&lt;p&gt;Just created a &lt;a href=&quot;https://github.com/WinVector/Examples/blob/main/pandas_polars_rosettastone/rosetta.ipynb&quot;&gt;handy little Rosetta stone&lt;/a&gt; of common data operations in both &lt;code&gt;pandas&lt;/code&gt; and &lt;code&gt;polars&lt;/code&gt;. Maybe you’ll find it useful, too.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-04-07-abtesting/"/>
+		<updated>2023-04-07T07:32:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-04-07-abtesting/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;https://ninazumel.com/2023/04/07/what-why-how-abtesting.html&quot;&gt;The What, Why, and How of AB Testing&lt;/a&gt; --  written for one of my clients, but a handy reference that I wanted on my own blog, with their permission, of course.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-03-28-medieval-studies-mr-james/"/>
+		<updated>2023-03-28T16:26:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-03-28-medieval-studies-mr-james/</id>
+		<content type="html">&lt;p&gt;📚 Finished reading &lt;em&gt;Medieval Studies and the Ghost Stories of M.R. James&lt;/em&gt;. If you enjoy James&#39;s ghost stories, and like learning about the connections between his fiction and his academic research, this is for you. &lt;a href=&quot;https://multoghost.wordpress.com/2023/03/27/medieval-studies-and-the-ghost-stories-of-m-r-james/&quot;&gt;Full review here&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-03-21-obsidian/"/>
+		<updated>2023-03-21T18:56:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-03-21-obsidian/</id>
+		<content type="html">&lt;p&gt;All you Obsidian fans convinced me: I&#39;ve just switched from Bear and Scrivener to Obsidian. Now it&#39;s time to stop playing with productivity apps and finally be productive.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-02-25-bookshelf-done/"/>
+		<updated>2023-02-25T18:14:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-02-25-bookshelf-done/</id>
+		<content type="html">&lt;p&gt;I&#39;ve got &lt;a href=&quot;https://ninazumel.com/books/&quot;&gt;The Library of Babble&lt;/a&gt; up to date, and organized by category. That itch has been scratched. Now back to reading so I can add more books to the shelf...&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-02-24-bookspine-lit/"/>
+		<updated>2023-02-24T13:31:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-02-24-bookspine-lit/</id>
+		<content type="html">&lt;p&gt;&lt;img style=&quot;display:block;margin-left:auto;margin-right:auto;&quot; src=&quot;https://ninazumel.com/short_thoughts/assets/images/bookspine_lit.jpg&quot; alt=&quot;Bookspine Literature&quot; border=&quot;0&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://multoghost.wordpress.com/2012/05/07/book-spine-literature/&quot;&gt;Bookspine Literature&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-02-24-quotes/"/>
+		<updated>2023-02-24T13:04:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-02-24-quotes/</id>
+		<content type="html">&lt;blockquote&gt;
+&lt;p&gt;The untapped natural resources of crackpottery in this country...would astonish you. There is a &lt;a href=&quot;https://en.wikipedia.org/wiki/Gresham%27s_law&quot;&gt;Gresham&#39;s Law&lt;/a&gt; of the mass intellect: muddle-headedness inevitably drives out clear thinking. And the political science of the future lies in the control and the application of that law to purposive ends.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;-- Anthony Boucher, &amp;quot;Rumor, Inc.&amp;quot; (1945)&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-02-14-more-books/"/>
+		<updated>2023-02-14T14:00:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-02-14-more-books/</id>
+		<content type="html">&lt;p&gt;📚  I’ve finished loading up a first round of books to &lt;a href=&quot;https://ninazumel.com/books/&quot;&gt;&lt;strong&gt;The Library of Babble&lt;/strong&gt;&lt;/a&gt;. These are all the books that were in my current spreadsheet that had book covers online at the Open Library. The bookshelf template I’m using can load the covers from the Open Library ID. Handy!&lt;/p&gt;
+&lt;p&gt;Next comes the rest of the spreadsheet: books for which I have to generate a cover image. Then, I have to finish populating the spreadsheet, with the remaining entries from 2012 and 2011.&lt;/p&gt;
+&lt;p&gt;Progress! Do check it out.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-02-12-bookshelf/"/>
+		<updated>2023-02-12T11:26:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-02-12-bookshelf/</id>
+		<content type="html">&lt;p&gt;📚 &lt;a href=&quot;https://ninazumel.com/books/&quot;&gt;&lt;strong&gt;The Library of Babble&lt;/strong&gt;&lt;/a&gt;. My contemplated bookshelf project has indeed started. Rather than a bookshelf of &lt;em&gt;Reading&lt;/em&gt;, &lt;em&gt;Want to Read&lt;/em&gt;, and &lt;em&gt;Finished&lt;/em&gt;, with ratings, this is a shelf of books that I&#39;ve mentioned on my blog &lt;em&gt;Multo&lt;/em&gt; over the years.&lt;/p&gt;
+&lt;p&gt;It&#39;s not a shelf of reviews; it&#39;s more like a visual representation of the books that have affected my blogging life thus far. Or will, be when I&#39;ve finished populating it with past books. And there are a lot of straight reviews, especially more recently.&lt;/p&gt;
+&lt;p&gt;Time breakdown so far:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Adding the bookshelf: ~2 hours. Someone who&#39;s actually conversant with jekyll, liquid, etc would probably have done this in half an hour, but it&#39;s done now. I used &lt;a href=&quot;https://github.com/subhodeeps/jekyll-bookworm/&quot;&gt;&lt;code&gt;jekyll-bookworm&lt;/code&gt;&lt;/a&gt; for the template.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Writing the script to generate the individual book docs from a spreadsheet: ~30 min. Easy-peasy.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Populating the spreadsheet: ongoing, since I have to go through my blog and fill out the spreadsheet manually.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Polishing the auto-generated docs: ongoing. I suppose I could skip this step, but I&#39;m obsessive that way.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I also added categories and tags to the books; &lt;code&gt;jekyll-bookworm&lt;/code&gt; doesn&#39;t use them, but eventually I want to organize the bookshelf by category, rather than year. Again, that would probably take a few minutes for someone who knows what they&#39;re doing, but it will  take me a little longer. But first to finish populating the shelf; one step at a time.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-02-10-honjin/"/>
+		<updated>2023-02-10T15:16:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-02-10-honjin/</id>
+		<content type="html">&lt;p&gt;📚 Just finished &lt;em&gt;The Honjin Murders&lt;/em&gt; by Seishi Yokomizo, a locked room mystery set in 1937 Japan. First published in 1946. It&#39;s a doozy! &lt;a href=&quot;https://multoghost.wordpress.com/2023/02/10/reading-the-honjin-murders/&quot;&gt;My full review here.&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-02-08-reader/"/>
+		<updated>2023-02-08T21:30:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-02-08-reader/</id>
+		<content type="html">&lt;p&gt;📚 &lt;a href=&quot;https://multoghost.wordpress.com/2018/08/13/on-the-obligations-of-the-reader/&quot;&gt;&lt;strong&gt;On the Obligations of the Reader&lt;/strong&gt;&lt;/a&gt; -- I wrote this a few years ago, and I feel like boosting it again today. Be the reader your favorite writers deserve.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-02-08-websites/"/>
+		<updated>2023-02-08T13:48:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-02-08-websites/</id>
+		<content type="html">&lt;p&gt;For the last several months, I’ve had this weird urge to build websites. I don’t know why; I’m crap at it — the only way I can do it is to fork other peoples’ repos and painstakingly tweak them to what I want. And I can’t stand up my own server or even connect my jekyll sites to micropub to save my life.&lt;/p&gt;
+&lt;p&gt;But hey, it’s a creative urge, I guess I’ll go with it. A new bookshelf project possibly in the works. Maybe you’ll see it soon, if I haven’t just jinxed it with this post.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-01-27-kipling/"/>
+		<updated>2023-01-26T22:17:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-01-27-kipling/</id>
+		<content type="html">&lt;p&gt;Today I learned -- from an essay about Sherlock Holmes scholarship, of all things -- that Kipling&#39;s &amp;quot;The White Man&#39;s Burden&amp;quot; was about the American occupation of the Philippines, not the British occupation of India. Huh. Doesn&#39;t make it any better, obviously.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-01-26-commonplace-redux/"/>
+		<updated>2023-01-26T20:31:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-01-26-commonplace-redux/</id>
+		<content type="html">&lt;p&gt;📓📝 About a month ago, I started keeping a &lt;a href=&quot;https://ninazumel.com/short_thoughts/2022/12/28/commonplace-book.html&quot;&gt;commonplace book&lt;/a&gt; to capture interesting things I come across online. Originally, it was in Scrivener on my desktop, which is my primary machine for work and for my writing.&lt;/p&gt;
+&lt;p&gt;But I also do a lot of my leisure-time online reading on my laptop, and my Scrivener commonplace book wasn&#39;t in the cloud. At first, I&#39;d save links to interesting articles to Apple Notes, and put them in Scrivener the next time I was at my desktop, but that got old really fast.&lt;/p&gt;
+&lt;p&gt;So I&#39;ve moved from Scrivener to &lt;a href=&quot;https://bookdown.org/&quot;&gt;bookdown&lt;/a&gt;, which generates an HTML book from Rmarkdown that I can peruse locally from my browser.&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;display:block;margin-left:auto;margin-right:auto;&quot; src=&quot;https://ninazumel.com/short_thoughts/assets/images/commonplace_book.png&quot; alt=&quot;Commonplace Book&quot; border=&quot;0&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Bookdown is overkill; I don&#39;t need any R functionality, nor do I need to generate the book in PDF or EPUB, or any other format that bookdown supports. Probably &lt;a href=&quot;https://rust-lang.github.io/mdBook/&quot;&gt;mdBook&lt;/a&gt; would have made more sense. But R and the RStudio IDE are already on both my laptop and desktop, and it&#39;s nice to just create a new Rmarkdown file and press &amp;quot;Build.&amp;quot;&lt;/p&gt;
+&lt;p&gt;Now I can add to my clippings from either machine, and keep the book synchronized with a private repository on GitHub. And I can read it from both places, too, which is a bonus I hadn&#39;t been planning on when I started this practice.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-01-22-the-ideal/"/>
+		<updated>2023-01-22T14:58:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-01-22-the-ideal/</id>
+		<content type="html">&lt;p&gt;💬&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Shall we continue to raise our eyes to heaven? Is the luminous point which we distinguish there one of those which vanish? The ideal is frightful to behold, thus lost in the depths, small, isolated, imperceptible, brilliant, but surrounded by those great, black menaces, monstrously heaped around it; yet no more in danger than a star in the maw of the clouds.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Beautiful quote from Victor Hugo on the invincibility of the ideal (and by extension, hope). From &lt;a href=&quot;https://www.gutenberg.org/ebooks/135&quot;&gt;&lt;em&gt;Les Misérables&lt;/em&gt;&lt;/a&gt;, 1887 translation by Isabel F. Hapgood.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-01-20-ghosts-from-the-library/"/>
+		<updated>2023-01-20T15:17:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-01-20-ghosts-from-the-library/</id>
+		<content type="html">&lt;p&gt;📚 Finished reading &lt;em&gt;Ghosts from the Library&lt;/em&gt;, an anthology of lost and forgotten supernaturalish tales from well-known Golden Age mystery writers. Uneven, but fun. &lt;a href=&quot;https://multoghost.wordpress.com/2023/01/20/reading-ghosts-in-the-library/&quot;&gt;My review is here&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-01-06-mcsweeneys-life-reviews/"/>
+		<updated>2023-01-06T09:31:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-01-06-mcsweeneys-life-reviews/</id>
+		<content type="html">&lt;p&gt;📚 Related to my previous post, I found this: &lt;a href=&quot;https://www.mcsweeneys.net/articles/if-goodreads-users-reviewed-your-life-the-way-they-reviewed-your-book&quot;&gt;&lt;em&gt;If Goodreads Users Reviewed Your LIfe the Way they Reviewed Your Book&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-01-06-bad-book-reviews/"/>
+		<updated>2023-01-06T09:30:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-01-06-bad-book-reviews/</id>
+		<content type="html">&lt;p&gt;📚 &lt;a href=&quot;https://lithub.com/the-most-scathing-book-reviews-of-2022/&quot;&gt;&lt;strong&gt;The Most Scathing Book Reviews of 2022&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;There’s something about the joy people take in reading vicious book reviews like these that sits wrong with me. Oh, I know that two of the books on this list are probably vile works, written by vile people. And the other authors are famous personages and/or well-regarded writers, so they presumably have thick skins and reputations to protect them. But the gleeful responses of some of the people in the comments---I dunno:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is the greatest read… Hilarious, I needed this.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;These aren’t fight scenes in action movies, or skirmishes at a hockey game. But that&#39;s how people react.&lt;/p&gt;
+&lt;p&gt;Worse, to me, is when people try to emulate the “scathing reviewer” schtick on their Goodreads or other book social media reviews. Because often the target then isn’t an author so famous, or well-established. And then it’s not punching up, it’s a dunk on a real person and on their hard work. It’s insulting something/someone for the sake of entertainment. Or for aggrandizing oneself.&lt;/p&gt;
+&lt;p&gt;If you didn’t like a book, you can write a reasonably polite negative review and move on. Or, just move on. There used to be a reviewer for — not &lt;em&gt;McSweeneys&lt;/em&gt;, but some sister publication — who only did positive reviews. If they read a book they didn’t like, not only did they not review it, they wouldn’t even name it. “Life is too short to waste on bad books” was the mantra. It’s not everyone’s attitude, but I fall into that camp, myself.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2023-01-05-tale-of-gaslight-ghost/"/>
+		<updated>2023-01-05T09:01:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2023-01-05-tale-of-gaslight-ghost/</id>
+		<content type="html">&lt;p&gt;📚 ❄️ The last winter tale for this season is a short and somewhat unusual one.  In &lt;a href=&quot;https://multoghost.wordpress.com/2023/01/05/the-tale-of-a-gas-light-ghost/&quot;&gt;&amp;quot;The Tale of a Gas-Light Ghost,&amp;quot;&lt;/a&gt; mysterious Gregory Barnstake comes to live in rural Mapleton. What&#39;s his secret? Read and find out...&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2022-12-28-commonplace-book/"/>
+		<updated>2022-12-28T14:42:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-12-28-commonplace-book/</id>
+		<content type="html">&lt;p&gt;📓 📝 I&#39;ve started keeping a commonplace book for inspirational things I find online. I&#39;m using &lt;a href=&quot;https://www.literatureandlatte.com/scrivener/overview&quot;&gt;Scrivener&lt;/a&gt;. Usually, I copy/paste the article or excerpt directly in, and add a link to the source. Sometimes, I&#39;ll use Scrivener&#39;s &amp;quot;import from the web&amp;quot; research feature. Scrivener lets me attach my own notes to the documents as well.&lt;/p&gt;
+&lt;p&gt;It&#39;s not fancy; it&#39;s not in the cloud. But it&#39;s slightly more organized than saving stuff as browser bookmarks or reading lists, which is what I used to do. And I love Scrivener; I use it so many ways. I think this will work.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2022-12-28-a-curious-experience/"/>
+		<updated>2022-12-28T14:06:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-12-28-a-curious-experience/</id>
+		<content type="html">&lt;p&gt;📚 ❄️ Winter tales continue through the twelve days of Christmas with &lt;a href=&quot;https://multoghost.wordpress.com/2022/12/28/a-curious-experience/&quot;&gt;&amp;quot;A Curious Experience,&amp;quot;&lt;/a&gt; by Ellen Wood. There&#39;s something not right about this beautiful boarding house bedroom.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2022-12-27-things-ive-learned/"/>
+		<updated>2022-12-27T09:02:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-12-27-things-ive-learned/</id>
+		<content type="html">&lt;h2 id=&quot;things-i-ve-learned-from-reading-ghost-stories&quot; tabindex=&quot;-1&quot;&gt;Things I&#39;ve Learned from Reading Ghost Stories: &lt;a class=&quot;header-anchor&quot; href=&quot;https://ninazumel.com/testblog/blog/2022-12-27-things-ive-learned/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;If the rent or sale price seems too good to be true - it is.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Don’t blow old whistles.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Found an ancient artifact? And it’s got a Latin inscription? &lt;em&gt;Don’t&lt;/em&gt; read it out loud!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ditto for old books.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Just put it back where you found it. Seriously.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Beware of “persons” in flappy flowy hooded garments.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Beware your child’s “imaginary playmate.”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If the mirrors are covered - leave them that way.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ditto for paintings.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ditto for plastered-over murals.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Never scoff at “old wives tales.”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There is no cat in the house.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2022-12-26-new-theme/"/>
+		<updated>2022-12-26T11:26:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-12-26-new-theme/</id>
+		<content type="html">&lt;p&gt;Happy Boxing Day! I&#39;ve changed my blog theme to something slightly less primitive. Little changes can make a big difference.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2022-12-25-merry-christmas/"/>
+		<updated>2022-12-25T09:05:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-12-25-merry-christmas/</id>
+		<content type="html">&lt;p&gt;A Merry Christmas to all who celebrate it, and a joyous day to all who don&#39;t! 🎄🎄&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2022-12-24-squire-humperdinck/"/>
+		<updated>2022-12-24T08:10:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-12-24-squire-humperdinck/</id>
+		<content type="html">&lt;p&gt;📚 On Christmas Eve, I always post a lighter winter tale: &lt;a href=&quot;https://multoghost.wordpress.com/2022/12/24/squire-humperdinck-and-the-devil/&quot;&gt;Squire Humperdinck and the Devil&lt;/a&gt; is a delightful fairy tale about a greedy landowner and a mischievous little boy who foils the squire&#39;s evil plans. Happy Holidays, and enjoy!&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2022-12-19-sister-johannas-story/"/>
+		<updated>2022-12-19T20:58:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-12-19-sister-johannas-story/</id>
+		<content type="html">&lt;p&gt;📚 New winter tale: &lt;a href=&quot;https://multoghost.wordpress.com/2022/12/19/sister-johannas-story/&quot;&gt;&amp;quot;Sister Johanna&#39;s Story&amp;quot;&lt;/a&gt; (1873) is a love-triangle ghost story by Amelia Edwards, inspired by her travels through the Gröden Valley in the Dolomite Alps. Heartbreaking, but lovely.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2022-12-18-content/"/>
+		<updated>2022-12-18T10:21:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-12-18-content/</id>
+		<content type="html">&lt;p&gt;I&#39;ve been thinking about the evolution of the word &amp;quot;content&amp;quot; as it relates to creative endeavors. &amp;quot;Content&amp;quot; used to be a quality of a creative work, especially a piece of writing: &amp;quot;this article has no content&amp;quot; means that it&#39;s fluff, a puff piece, filler. Now we talk about an article &lt;em&gt;as&lt;/em&gt; content---eliding the difference between a substantive, thoughtful piece of writing (or other creative act), and filler meant to keep the writer visible in their social media feeds. It&#39;s disrespectful of both creators and the works that they produce.&lt;/p&gt;
+&lt;p&gt;So I now try to consciously avoid the word &amp;quot;content&amp;quot; as a synonym for a body of creative work. I try to use a specific word: &amp;quot;posts,&amp;quot; &amp;quot;articles,&amp;quot; &amp;quot;writing,&amp;quot; or even &amp;quot;creative work.&amp;quot;&lt;/p&gt;
+&lt;p&gt;I don&#39;t want to get preachy about it, but I put this idea out there because I&#39;d like to encourage other people who think like I do to do the same.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Addendum&lt;/strong&gt;: Just as I was writing this post, Notion invited me to try their new &lt;a href=&quot;https://www.theverge.com/2022/11/16/23460904/notion-ai-notes-writing-machine-learning&quot;&gt;&amp;quot;AI writing buddy&amp;quot;&lt;/a&gt;. Perhaps there is an application here for producing rote form letters or announcements. But the idea of having an AI to help someone write blog posts (a use case they promote) offends me to my very core. &amp;quot;Content,&amp;quot; indeed.  📝&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2022-12-15-rss/"/>
+		<updated>2022-12-15T19:40:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-12-15-rss/</id>
+		<content type="html">&lt;p&gt;After many years, I&#39;ve finally started using an RSS reader again. As someone who prefers medium-to-long form writing, I&#39;m wondering why I ever stopped! It&#39;s reinvigorated my online reading.&lt;/p&gt;
+&lt;p&gt;RSS is just the perfect way for me to follow other people&#39;s writing. Mailing list notifications tend to get in the way; I don&#39;t necessarily want to deal with those emails when I get them, and if I put them aside, they tend to get lost or pile up, until I delete them wholesale in a fit of &amp;quot;tidying up.&amp;quot; Single-threaded chronological feeds, like the Wordpress Reader, or Micro.blog (or Twitter or Mastodon, if you follow microblogs), don&#39;t work as well for people (like me) who don&#39;t live on the feed, and they also disadvantage writers who post less frequently.&lt;/p&gt;
+&lt;p&gt;But with my RSS reader (I use Reeder), I can check in when I feel like it, and see everyone who&#39;s posted since the last time, and easily pick what I want to read, and from whom. It&#39;s great.&lt;/p&gt;
+&lt;p&gt;And bonus -- I can follow YouTube channels! As someone who makes a point of not staying continuously logged into my Google account, this is a plus.&lt;/p&gt;
+&lt;p&gt;Of course, whether I should be spending my relatively limited reading time budget on online reading, rather than books, is another question.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2022-12-15-ghost-of-charlotte-cray/"/>
+		<updated>2022-12-15T08:20:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-12-15-ghost-of-charlotte-cray/</id>
+		<content type="html">&lt;p&gt;📚 New winter tale! &lt;a href=&quot;https://multoghost.wordpress.com/2022/12/15/the-ghost-of-charlotte-cray/&quot;&gt;&amp;quot;The Ghost of Charlotte Cray&amp;quot;&lt;/a&gt; is a lighter-hearted story by Florence Marryat, author of &lt;em&gt;The Blood of the Vampire&lt;/em&gt;. It&#39;s also a warning that playboy-types should be more careful in their relationships. Enjoy!&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2022-12-8-number-two-melrose-square/"/>
+		<updated>2022-12-08T08:28:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-12-8-number-two-melrose-square/</id>
+		<content type="html">&lt;p&gt;📚 New winter tale! &lt;a href=&quot;https://multoghost.wordpress.com/2022/12/08/number-two-melrose-square/&quot;&gt;Number Two, Melrose Square&lt;/a&gt; is a haunted house story by Theo Gift, from 1880. If the rent sounds too good to be true, it probably is.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2022-12-1-musical-mystery/"/>
+		<updated>2022-12-01T08:56:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-12-1-musical-mystery/</id>
+		<content type="html">&lt;p&gt;📚 Winter Tales time! My annual tradition of sharing Christmas season ghost stories starts with &lt;a href=&quot;https://multoghost.wordpress.com/2022/12/01/winter-tales-time-a-musical-mystery/&quot;&gt;A Musical Mystery&lt;/a&gt;, first published 1875.&lt;/p&gt;
+&lt;p&gt;I&#39;ll be posting about one a week, until Epiphany.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2022-11-30-stationery/"/>
+		<updated>2022-11-30T12:49:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-11-30-stationery/</id>
+		<content type="html">&lt;p&gt;🖋️ 📓 Thanks to work avoidance, I&#39;ve rediscovered &lt;a href=&quot;https://johnmount.github.io/mzlabs/JMWriting/Stationery.html&quot;&gt;&lt;strong&gt;Good Stationery as a Tool of Thought&lt;/strong&gt;&lt;/a&gt;, a little piece my husband and colleague John Mount wrote some years back. I thought some of the pen and personal productivity nerds here might enjoy it.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Back to the Dilemna-verse</title>
+		<link href="https://ninazumel.com/testblog/blog/2022-11-28-back-to-the-dilemna-verse/"/>
+		<updated>2022-11-28T16:50:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-11-28-back-to-the-dilemna-verse/</id>
+		<content type="html">&lt;p&gt;Earlier today, my husband, who knows he can&#39;t spell, asked me how to spell &amp;quot;dilemma.&amp;quot; I spelled it to him out loud, the way I have always spelled the word: d-i-l-e-m-&lt;strong&gt;N&lt;/strong&gt;-a. And I reflexively added, &amp;quot;Google it, to make sure.&amp;quot;&lt;/p&gt;
+&lt;p&gt;&amp;quot;Here it is,&amp;quot; he replied. &amp;quot;Two Ms.&amp;quot;&lt;/p&gt;
+&lt;p&gt;&amp;quot;What?!? No, it&#39;s &#39;M-N&#39;&amp;quot;, I said.&lt;/p&gt;
+&lt;p&gt;&amp;quot;Google says two Ms.&amp;quot;&lt;/p&gt;
+&lt;p&gt;&amp;quot;No!&amp;quot;&lt;/p&gt;
+&lt;p&gt;I looked it up myself, positive that this was an instance of a mispelling/malapropism that had become more or less standard, or at least widely used, like people writing &amp;quot;for all intensive purposes&amp;quot; when they mean &amp;quot;for all intents and purposes,&amp;quot; or the surprisingly common &amp;quot;defiantly&amp;quot; in place of &amp;quot;definitely.&amp;quot;&lt;/p&gt;
+&lt;p&gt;And I learned that in fact, it is, and has always been, &amp;quot;dilemma.&amp;quot; A quick trip to our actual, physical &lt;em&gt;Oxford Dictionary of American English&lt;/em&gt; confirmed this.&lt;/p&gt;
+&lt;p&gt;Now that I&#39;ve stopped to think about it, two Ms makes sense. Di-lemma: two lemmas, or two &amp;quot;propositions,&amp;quot; to use &lt;em&gt;lemma&lt;/em&gt; in its mathematical sense.  To &lt;em&gt;have a dilemma&lt;/em&gt; is to be in a situation with two (or more) choices, and no way to choose among them, often because both are equally undesirable.&lt;/p&gt;
+&lt;p&gt;So why did I think it was spelled with an N? &amp;quot;Dilemma&amp;quot; doesn&#39;t even look right to me. Clearly, I&#39;m not the only one, given that &lt;a href=&quot;https://www.dilemna.info/index.php&quot;&gt;an entire website exists&lt;/a&gt; to discuss the issue. There&#39;s some kind of &lt;a href=&quot;https://en.wikipedia.org/wiki/False_memory#Mandela_Effect&quot;&gt;Mandela effect&lt;/a&gt; going on.&lt;/p&gt;
+&lt;p&gt;Just for fun, let&#39;s entertain Fiona Broome&#39;s original theory about the Mandela effect: perhaps all of us who spell the word &amp;quot;dilemna&amp;quot; are refugees from some alternate reality where that spelling is, and has always been, correct.&lt;/p&gt;
+&lt;p&gt;And now let&#39;s think about an old Grant Morrison graphic novel, &lt;a href=&quot;https://en.wikipedia.org/wiki/JLA:_Earth_2&quot;&gt;&lt;em&gt;JLA: Earth 2&lt;/em&gt;&lt;/a&gt; (there&#39;s a point to this, I promise). In that comic, there is another reality, Earth 2, where Superman, Wonder Woman, and all the rest of the Justice League instead belong to an evil group called the Crime Syndicate, and Alexander Luthor is the good guy fighting against them. And he loses, and will forever lose, to the Crime Syndicate -- just like &amp;quot;our&amp;quot; Lex Luthor always loses to the Justice League.&lt;/p&gt;
+&lt;p&gt;Why? Because in the Earth 2 reality, the universe is biased in favor of evil. And in JLA&#39;s reality, the universe is biased in favor of good. As Martin Luther King, Jr. said, and President Obama quotes :&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The arc of the moral universe is long, but it bends toward justice.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I&#39;ve been thinking a lot about that comic over the last six or seven years. Because I&#39;m really becoming afraid that we live on Earth 2.&lt;/p&gt;
+&lt;p&gt;I wonder: on Earth 1, do they spell &amp;quot;dilemna&amp;quot; with an N?&lt;/p&gt;
+&lt;p&gt;Because if they do, and if Philip K. Dick has taught me anything, we can turn this reality back to Earth 1, just by spelling &amp;quot;dilemna&amp;quot; with an N, too. Well, and a few other justice-affirming and ecologically responsible actions as well, but really, that N, it&#39;s gonna help!&lt;/p&gt;
+&lt;p&gt;That&#39;s my story, and I&#39;m sticking to it.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&quot;how-to-a-b-test-machine-learning-models&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;How to A/B Test Machine Learning Models&lt;/strong&gt; &lt;a class=&quot;header-anchor&quot; href=&quot;https://ninazumel.com/testblog/blog/2023-04-06-what-why-how-abtesting/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;A/B tests are a key tool of business decision-making. In this article, we&#39;ll discuss the what and why of A/B testing, and how an A/B test is designed.&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&quot;what-is-an-a-b-test&quot; tabindex=&quot;-1&quot;&gt;What is an A/B Test? &lt;a class=&quot;header-anchor&quot; href=&quot;https://ninazumel.com/testblog/blog/2023-04-06-what-why-how-abtesting/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;An &lt;a href=&quot;https://en.wikipedia.org/wiki/A/B_testing&quot;&gt;A/B test&lt;/a&gt;, also called a controlled experiment or a randomized control trial, is a statistical method of determining which of a set of variants is the best. A/B tests allow organizations and policy-makers to make smarter, data-driven decisions that are less dependent on guesswork.&lt;/p&gt;
-&lt;p&gt;In the simplest version of an A/B test, subjects are randomly assigned to either the control group (group A) or the treatment group (group B). Subjects in the treatment group receive the treatment (such as a new medicine, a special offer, or a new web page design) while the control group proceeds as normal without the treatment. Data is then collected on the outcomes and used to study the effects of the treatment.&lt;/p&gt;
-&lt;img alt=&quot;AB testing&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://ninazumel.com/testblog/img/AB-Testing-_poswn2rZ2-400.png&quot; width=&quot;900&quot; height=&quot;680&quot; srcset=&quot;https://ninazumel.com/testblog/img/AB-Testing-_poswn2rZ2-400.png 400w, https://ninazumel.com/testblog/img/AB-Testing-_poswn2rZ2-800.png 800w, https://ninazumel.com/testblog/img/AB-Testing-_poswn2rZ2-900.png 900w&quot; sizes=&quot;100vw&quot;&gt;
-&lt;p class=&quot;caption&quot;&gt;Author: Seobility - License: &lt;a href=&quot;https://www.seobility.net/en/wiki/Creative_Commons_License_BY-SA_4.0&quot;&gt;[CC BY-SA 4.0]&lt;/a&gt;( &quot;Creative Commons License BY-SA 4.0&quot;)&lt;/p&gt;
-&lt;h3 id=&quot;a-b-testing-in-history&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;A/B Testing in History&lt;/strong&gt; &lt;a class=&quot;header-anchor&quot; href=&quot;https://ninazumel.com/testblog/blog/2023-04-06-what-why-how-abtesting/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;This idea has been around for a long time. Historically, farmers have divided their fields into sections to test whether various treatments can improve their crop yield. Something like an A/B nutrition test even appears in the Old Testament!&lt;/p&gt;
+&lt;p&gt;P.S: On a more serious note, I do wonder if this widespread belief that it&#39;s &amp;quot;dilemna,&amp;quot; not &amp;quot;dilemma&amp;quot; could be a fluke of typography. Perhaps some type family somewhere had a ligature to represent &lt;em&gt;mm&lt;/em&gt; that dropped a hump, so that &lt;em&gt;mm&lt;/em&gt; looked more like &lt;em&gt;mn&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;I admit this theory isn&#39;t any more substantiated than the alternate reality theory above, but it&#39;s possible...&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Unsocial in a Social Media World</title>
+		<link href="https://ninazumel.com/testblog/blog/2022-11-23-social-media-party/"/>
+		<updated>2022-11-23T10:46:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-11-23-social-media-party/</id>
+		<content type="html">&lt;p&gt;Last night, I invented a new dish, a fusion of Mexican &lt;em&gt;arroz amarillo&lt;/em&gt; and South Asian &lt;em&gt;kichidi&lt;/em&gt; that I dubbed “Mexican Kichidi.” It was delicious, and while cooking it I had excited plans to photograph my culinary creation and post my new brainchild. But when the cooking was over and the time came, I decided: &lt;em&gt;screw it, I’d rather just sit and eat this&lt;/em&gt;. Who cares, after all, except my husband and me, and maybe the people I might make this for in the future? And they can find out about it then.&lt;/p&gt;
+&lt;p&gt;The above has always been my feeling about social media (and microblogging). &lt;em&gt;Why would anybody care?&lt;/em&gt; I never saw the point of Twitter, for instance, unless one had a blog, or some other fount of creation (I won’t call it “content”), and one wanted to share their new creations with interested people in the world. Or even share other people’s interesting creations. And the kind of more personal stuff people often share on Facebook and equivalents (pictures of food, pictures of kids or pets…) — I do that too, but with my real-life, in-person friends: people who might actually care, because they know me. They know my context.&lt;/p&gt;
+&lt;p&gt;Pundits sometimes deride social media as “performative,” but that’s not my issue. I have no problem “performing”— the reason I have so many blogs is to separate the various aspects of myself that I want to “perform” in public. My issue, I realized, is that social media is to a large degree &lt;em&gt;small talk&lt;/em&gt;. And I hate small talk. I’ve never been good at it, I have trouble initiating it. I’ve gotten better at following through, but my gawd, it’s &lt;em&gt;work&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Coming to a new social media platform is like going to a big party where you don’t know anyone. Small talk is the medium by which you meet people in such a space, and so small talk, at first, is what I (try to) make. Some (most) people at a party like to chit chat to all kinds of new people, never staying with anyone for very long. It’s rude to monopolize their attention and time. I get that.&lt;/p&gt;
+&lt;p&gt;But I really just want to find someone (a few someones) to &lt;em&gt;converse&lt;/em&gt; with. Someone whose context I click with, or who clicks with my context. Hopefully both. And the few of us can stand in a corner and nerd out on the things we’re nerdy about to our heart’s content. Things our real-llfe friends may not find as interesting as we do (that’s why I came to this shindig in the first place, after all). We can share our long-form, short-form, medium-form posts with each other, knowing that those we share with may actually click, may actually &lt;em&gt;read&lt;/em&gt;. And sometimes, at least, respond. Other people at the party will wander over, maybe join in the conversation for a bit until they’re bored, then wander off again. It’s fine.&lt;/p&gt;
+&lt;p&gt;Will I find my peeps at this party? Or will I just stand alone by the hors d&#39;oeuvre table, munching on the mini-samosas, talking to myself? Dunno. I guess I’ll find out.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2022-11-21-dorian-gray/"/>
+		<updated>2022-11-21T13:21:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-11-21-dorian-gray/</id>
+		<content type="html">&lt;p&gt;📚 I once &lt;a href=&quot;https://multoghost.wordpress.com/tag/dorian-gray/?order=asc&quot;&gt;dissected all the flower imagery in &lt;em&gt;The Picture of Dorian Gray&lt;/em&gt;&lt;/a&gt;. It was a fun exercise. It&#39;s a three-part series, still holds up.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2022-11-20-streaming_vod/"/>
+		<updated>2022-11-20T10:11:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-11-20-streaming_vod/</id>
+		<content type="html">&lt;p&gt;🍿 In case you find it useful: some cool &lt;strong&gt;non-subscription streaming sites (VOD)&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://kinonow.com/&quot;&gt;Kino Now&lt;/a&gt;- an eclectic collection of restored classics, as well as more recent films.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.flickeralley.com/&quot;&gt;Flicker Alley&lt;/a&gt; - mostly produces physical format restorations of vintage cinema and lesser-known noir; but they have a limited selection of their catalog streaming VOD via Vimeo or Amazon Prime.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These are only interesting if you are into this kind of film, of course, but they can be useful supplements to whatever regular streaming services you use.&lt;/p&gt;
+&lt;p&gt;Our household only subscribes to Amazon Prime (and PBS Masterpiece via Prime). We aren&#39;t interested in subscribing to All The Things. If I were to add one more, it would probably be &lt;a href=&quot;https://www.criterionchannel.com/&quot;&gt;The Criterion Channel&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We&#39;re also a household with a huge Blu-Ray/DVD collection. As you might guess, Kino, Flicker Alley, and Criterion form a big part of that collection.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2022-11-18-observation/"/>
+		<updated>2022-11-18T16:17:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-11-18-observation/</id>
+		<content type="html">&lt;p&gt;Observation, not complaint: The 📚 and 🍿 discover categories here are mostly &amp;quot;Currently reading X&amp;quot;, or &amp;quot;Movie: {some number of stars}&amp;quot;. That&#39;s nice and all, but I&#39;m kinda wishing for more discussion, or at least a description. Or a link to the post on your book/film blog...&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2022-11-18-vincent-price/"/>
+		<updated>2022-11-18T14:11:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-11-18-vincent-price/</id>
+		<content type="html">&lt;p&gt;These &lt;a href=&quot;https://www.youtube.com/watch?v=GfxCAURVUuE&quot;&gt;&lt;em&gt;Vincent Price Weird Mysteries&lt;/em&gt;&lt;/a&gt; are great for folding laundry. One story is the perfect length to finish the job.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2022-11-11-I-write-I-think/"/>
+		<updated>2022-11-11T13:14:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-11-11-I-write-I-think/</id>
+		<content type="html">&lt;p&gt;Something I wrote ten years ago, and is still one of my favorite pieces: &lt;a href=&quot;https://ninazumel.com/2012/10/11/i-write-therefore-i-think/&quot;&gt;&lt;em&gt;I Write, Therefore I Think&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2022-11-11-why-I-write/"/>
+		<updated>2022-11-11T12:41:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-11-11-why-I-write/</id>
+		<content type="html">&lt;p&gt;💬 A brief conversation with @annahavron inspired me to look up this wonderful Joan Didion quote:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;“Please test your servants for ten days. Let us be given vegetables to eat and water to drink. You can then compare our appearance with the appearance of the young men who eat the royal rations…&amp;quot; (Daniel 1:12-13)&lt;/p&gt;
+&lt;p&gt;Had I been blessed with even limited access to my own mind there would have been no reason to write. I write entirely to find out what I&#39;m thinking, what I&#39;m looking at, what I see and what it means. What I want and what I fear. ... What is going on in these pictures in my mind?&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;In 1747, Dr. James Lind conducted one of the earliest clinical trials, testing the &lt;a href=&quot;https://en.wikipedia.org/wiki/James_Lind#Prevention_and_cure_of_scurvy&quot;&gt;efficacy of citrus fruit for curing scurvy&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&quot;a-b-testing-today&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;A/B Testing Today&lt;/strong&gt; &lt;a class=&quot;header-anchor&quot; href=&quot;https://ninazumel.com/testblog/blog/2023-04-06-what-why-how-abtesting/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Today, A/B tests are an important business tool, used to make decisions in areas like product pricing, website design, marketing campaign design, and brand messaging. A/B testing lets organizations quickly experiment and iterate in order to continually improve their business.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;In data science&lt;/strong&gt;, A/B tests can also be used to choose between two models in production, by measuring which model performs better in the real world. In this formulation, the control is often an existing model that is currently in production, sometimes called the &lt;strong&gt;&lt;em&gt;champion&lt;/em&gt;&lt;/strong&gt;. The treatment is a new model being considered to replace the old one. This new model is sometimes called the &lt;strong&gt;&lt;em&gt;challenger&lt;/em&gt;&lt;/strong&gt;. In our discussion, we&#39;ll use the terms &lt;em&gt;champion&lt;/em&gt; and &lt;em&gt;challenger&lt;/em&gt;, rather than &lt;em&gt;control&lt;/em&gt; and &lt;em&gt;treatment&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Keep in mind that in machine learning, the terms &lt;em&gt;experiments&lt;/em&gt; and &lt;em&gt;trials&lt;/em&gt; also often refer to the process of finding a training configuration that works best for the problem at hand (this is sometimes called hyperparameter optimization). In this article, we will use the term &lt;em&gt;experiment&lt;/em&gt; to refer to the use of A/B tests to compare the performance of different models in production.&lt;/p&gt;
-&lt;h2 id=&quot;how-to-design-an-a-b-test&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;How to Design an A/B Test&lt;/strong&gt; &lt;a class=&quot;header-anchor&quot; href=&quot;https://ninazumel.com/testblog/blog/2023-04-06-what-why-how-abtesting/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;A/B tests are a useful way to rely less on opinions and intuition and to be more data-driven in decision making, but there are a few principles to keep in mind. The experimenter has to decide on a number of things.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;First, decide what you are trying to measure.&lt;/strong&gt; We&#39;ll call this the &lt;em&gt;Overall Evaluation Criterion&lt;/em&gt; or &lt;em&gt;OEC&lt;/em&gt;. This may be different and more business-focused than the loss function used while training the models, but it must be something you can measure. Common examples are revenue, click-thru rate, conversion rate, or process completion rate.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Second, decide how much better is &amp;quot;better&amp;quot;.&lt;/strong&gt; You might want to just say &amp;quot;Success is when the challenger is better than the champion,&amp;quot; but that&#39;s actually not a testable question, at least not in the statistical sense. You have to decide &lt;em&gt;how much&lt;/em&gt; better the challenger has to be. Let&#39;s define two quantities:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;y0&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;:&lt;/em&gt; The champion&#39;s assumed OEC. Since the champion has been running for a while, we should have a good idea of this value. For example, if we are measuring conversion rate, then we might already know that the champion typically achieves a conversion rate of &lt;em&gt;y0 =&lt;/em&gt; 2%.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;𝞭: the &lt;em&gt;minimum delta effect size&lt;/em&gt; we want to reliably detect. This is how much better the challenger needs to be for us to declare it &amp;quot;the winner.&amp;quot; For example, we may decide to switch to our challenger model if it improves the conversion rate by at least 1% – that is, we want the challenger to have a conversion rate of at least 0.02 * (1.01) = 0.0202. This means 𝞭 = 0.002.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Note that some sample size calculators (we&#39;ll get to that below) specify minimum effect size as a relative delta; in our example, the relative delta is 0.01 (1%), and the absolute delta is 0.002.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Third, decide how much error you want to tolerate&lt;/strong&gt;. Again, you probably want to say &amp;quot;none,&amp;quot; but that isn&#39;t practical. The less error you can tolerate, the more data you need, and in an online setting, the longer you have to run the test. In the classical statistics formulation, an A/B test has the following parameters to describe the error:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;𝞪:&lt;/strong&gt; the &lt;em&gt;significance&lt;/em&gt;, or &lt;em&gt;false positive rate&lt;/em&gt; that we are willing to tolerate. Ideally, we want 𝞪 as small as possible; in practice, 𝞪 is usually set to 0.05. You can think of this as meaning that if we run an A/B test over and over again, we will incorrectly pick an inferior challenger 5% of the time.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;𝞫:&lt;/strong&gt; the &lt;em&gt;power&lt;/em&gt;, or &lt;em&gt;true positive rate&lt;/em&gt; we want to achieve. Ideally, we would like 𝞫 near 1; in practice, 𝞫 is usually set to 0.8. You can think of this as meaning that if we run an A/B test over and over again we will correctly pick a superior challenger 80% of the time.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Note that 𝞪 and 𝞫 are talking about incompatible circumstances (that&#39;s why they don&#39;t add up to 1). The first case assumes the challenger is worse, the other case assumes it&#39;s better; finding out which situation we are in is the whole point of an A/B test.&lt;/p&gt;
-&lt;p&gt;There&#39;s one last parameter in an A/B test:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;em&gt;n&lt;/em&gt;:&lt;/strong&gt; the minimum number of examples (per model) we have to examine to make sure our false positive rate 𝞪 and true positive rate 𝞫 thresholds are met. Or as it&#39;s commonly said: &amp;quot;to make sure we achieve statistical significance.&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Note that n is per model: so if you are routing your customers between A and B with a 50-50 split, you need a total experiment size of 2&lt;em&gt;n customers. If you are routing 90% of your traffic to A and 10% to B, then B has to see at least n customers (and A will then see around 9&lt;/em&gt;n). So a 50-50 split is the most efficient, although you may prefer an unbalanced split for other reasons, like safety or stability.&lt;/p&gt;
-&lt;p&gt;To run an A/B test, the experimenter picks 𝞪, 𝞫, and the minimum effect size 𝞭, and then determines &lt;em&gt;n&lt;/em&gt;. We won&#39;t go into the formula for calculating &lt;em&gt;n&lt;/em&gt; here; so-called power calculators or sample-size calculators exist to do that for you. &lt;a href=&quot;https://statsig.com/calculator&quot;&gt;Here&#39;s one for rates, from Statsig&lt;/a&gt;; it defaults to 𝞪 = 0.05, 𝞫 = 0.8, and split ratio of 50-50. Feel free to play around to get a sense of how big sample sizes have to be in different situations.&lt;/p&gt;
-&lt;p&gt;Once you&#39;ve run the A/B test long enough to achieve the necessary &lt;em&gt;n&lt;/em&gt;, measure the OEC for each model. If OECchallenger - OECchampion &amp;gt; 𝞭, then the challenger wins! Otherwise, you may wish to stick with the champion model.&lt;/p&gt;
-&lt;h3 id=&quot;some-practical-considerations&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Some Practical Considerations&lt;/strong&gt; &lt;a class=&quot;header-anchor&quot; href=&quot;https://ninazumel.com/testblog/blog/2023-04-06-what-why-how-abtesting/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Splitting your subjects:&lt;/strong&gt; When splitting your subjects up randomly between models, make sure the process is truly random, and think through any interference between the two groups. Do they communicate or influence each other in some way? Does the randomization method cause an unintended bias? Any bias in group assignments can invalidate the results. Also, make sure the assignment is consistent so that each subject always gets the same treatment. For example, a specific customer should not get different prices every time they reload the pricing page.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;A/A Tests:&lt;/strong&gt; It can be a good idea to run an A/A test, where both groups are control or treatment groups. This can help surface unintentional biases or errors in the processing and can give a better feeling for how random variations can affect intermediate results.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Don&#39;t Peek!:&lt;/strong&gt; Due to human nature, it&#39;s difficult not to peek at the results early and draw conclusions or stop the experiment before the minimum sample size is reached. Resist the temptation. Sometimes the &amp;quot;wrong&amp;quot; model can get lucky for a while. You want to run a test long enough to be confident that the behavior you see is really representative and not just a weird fluke.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The more sensitive a test is, the longer it will take:&lt;/strong&gt; The resolution of an A/B test (how small a delta effect size you can detect) increases as the square of the samples. In other words, if you want to halve the delta effect size you can detect, you have to &lt;em&gt;quadruple&lt;/em&gt; your sample size.&lt;/p&gt;
-&lt;h3 id=&quot;extensions-to-a-b-testing&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Extensions to A/B Testing&lt;/strong&gt; &lt;a class=&quot;header-anchor&quot; href=&quot;https://ninazumel.com/testblog/blog/2023-04-06-what-why-how-abtesting/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Bayesian A/B Tests&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The classical (AKA frequentist) statistical approach to A/B testing that we described above can be a bit unintuitive for some people. In particular, note that the definitions of 𝞪 and 𝞫 posit that we run the A/B test over and over; in actuality, we generally run it only once (for a specific A and B). The Bayesian approach takes the data from a single run as a given, and asks, &amp;quot;What OEC values are consistent with what I&#39;ve observed?&amp;quot;&lt;/p&gt;
-&lt;p&gt;The general steps for a Bayesian analysis are roughly:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Specify prior beliefs about possible values of the OEC for the experiment groups. An example prior might be that conversion rates for both groups are different and both between 0 and 10%.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Define a statistical model using a Bayesian analysis tool (ie. using distributional techniques) and flat, uninformative, or equal priors for each group.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Collect data and update the beliefs on possible values for the OEC parameters as you go. The distributions of possible OEC parameters start out encompassing a wide range of possible values, and as the experiment continues the distributions tend to narrow and separate (if there is a difference).&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Continue the experiment as long as it seems valuable to refine the estimates of the OEC. From the posterior distributions of the effect sizes, it is possible to estimate the delta effect size.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;img alt=&quot;Posterior distributions of a Bayesian treatment and control test.&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://ninazumel.com/testblog/img/Fig+2-IqZooIpGrI-400.png&quot; width=&quot;712&quot; height=&quot;505&quot; srcset=&quot;https://ninazumel.com/testblog/img/Fig+2-IqZooIpGrI-400.png 400w, https://ninazumel.com/testblog/img/Fig+2-IqZooIpGrI-712.png 712w&quot; sizes=&quot;100vw&quot;&gt;
-&lt;p class=&quot;caption&quot;&gt;Posterior distributions of a Bayesian treatment/control test. Source: &lt;a href=&quot;https://win-vector.com/2013/05/06/bayesian-and-frequentist-approaches-ask-the-right-question/&quot;&gt;Win-Vector Blog&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Note that a Bayesian approach to A/B testing does not necessarily make the test any shorter; it simply makes quantifying the uncertainties in the experiment more straightforward, and arguably more intuitive. For a worked example of frequentist and Bayesian approaches to treatment/control experiments (in the context of clinical trials), see this &lt;a href=&quot;https://win-vector.com/2013/05/06/bayesian-and-frequentist-approaches-ask-the-right-question/&quot;&gt;blog post&lt;/a&gt; from Win Vector LLC.&lt;/p&gt;
-&lt;h3 id=&quot;multi-armed-bandits&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Multi-Armed Bandits&lt;/strong&gt; &lt;a class=&quot;header-anchor&quot; href=&quot;https://ninazumel.com/testblog/blog/2023-04-06-what-why-how-abtesting/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;If you want to minimize the waiting until the end of an experiment before taking action, consider &lt;a href=&quot;https://cxl.com/blog/bandit-tests/&quot;&gt;Multi-Armed Bandit&lt;/a&gt; approaches. Multi-armed bandits dynamically adjust the percentage of new requests that go to each option, based on that option&#39;s past performance. Essentially, the better performing a model is, the more traffic it gets—but some small amount of traffic still goes to poorly performing models, so the experiment can still collect information about them. This balances the trade-off between &lt;em&gt;exploitation&lt;/em&gt; (extracting maximal value by using models that appear to be the best) and &lt;em&gt;exploration&lt;/em&gt; (collecting information about other models, in case they turn out to be better than they currently appear). If a multi-armed bandit experiment is run long enough, it will eventually converge to the best model, if one exists.&lt;/p&gt;
-&lt;p&gt;Multi-armed bandit tests can be useful if you can&#39;t run a test long enough to achieve statistical significance; ironically, this situation often occurs when the delta effect size is small, so even if you pick the wrong model, you don&#39;t lose much. In fact, the exploitation-exploration tradeoff means that you potentially gain more value during the experiment than you would have running a standard A/B test.&lt;/p&gt;
+&lt;p&gt;From &amp;quot;Why I Write&amp;quot; by Joan Didion. Originally given as a speech at her &lt;em&gt;alma mater&lt;/em&gt; UC Berkeley, then published in the &lt;em&gt;New York Times Book Review&lt;/em&gt;, December 1976. Currently collected in &lt;a href=&quot;https://bookshop.org/p/books/let-me-tell-you-what-i-mean-joan-didion/14871586&quot;&gt;&lt;em&gt;Let Me Tell You What I Mean&lt;/em&gt;&lt;/a&gt;, Knopf Publishing, 2021.&lt;/p&gt;
+&lt;p&gt;I love Joan Didion&#39;s writing.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2022-11-09-the-bells/"/>
+		<updated>2022-11-09T16:50:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-11-09-the-bells/</id>
+		<content type="html">&lt;p&gt;🎥 &lt;a href=&quot;https://archive.org/details/THEBELLS1926SilentLionelBarrymoreBorisKarloff&quot;&gt;The Bells&lt;/a&gt; is a 1926 silent film starring Lionel Barrymore and featuring Boris Karloff in what should have been his breakout role. I watched it because I&#39;m a Karloff fan -- it&#39;s pretty good, except the ending. It&#39;s based on an 1867 French play by Erckmann-Chatrian, and I found the &lt;a href=&quot;http://gaslight-lit.s3-website.ca-central-1.amazonaws.com/gaslight/thebells.htm&quot;&gt;English adaptation&lt;/a&gt;. The play&#39;s ending is much better.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2022-11-07-elections/"/>
+		<updated>2022-11-07T19:15:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-11-07-elections/</id>
+		<content type="html">&lt;p&gt;The best thing about getting past election day will be the end of all these stupid campaign texts. For now...&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2022-11-07-winter-tales/"/>
+		<updated>2022-11-07T18:45:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-11-07-winter-tales/</id>
+		<content type="html">&lt;p&gt;I need seven ghost stories to share for Winter Tales season; I&#39;ve picked six. Two strong candidates for the last one. It should be a fun mix this year. 📚&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2022-11-06-sunday-project2/"/>
+		<updated>2022-11-06T09:12:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-11-06-sunday-project2/</id>
+		<content type="html">&lt;p&gt;It&#39;s also a perfect day to curl up and read &lt;em&gt;The Ghosts &amp;amp; Scholars Book of Follies and Grottoes&lt;/em&gt;. I love Rosemary Pardoe&#39;s anthologies; I wish they weren&#39;t so pricy. 📚 👻&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2022-11-06-sunday-project/"/>
+		<updated>2022-11-06T09:08:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-11-06-sunday-project/</id>
+		<content type="html">&lt;p&gt;Sunday plans: Time to start gathering Christmas ghost stories for my annual &lt;a href=&quot;https://multoghost.wordpress.com/winter-tales/&quot;&gt;Winter Tales&lt;/a&gt; series. 📚 👻&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2022-11-05-why/"/>
+		<updated>2022-11-05T22:30:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-11-05-why/</id>
+		<content type="html">&lt;p&gt;Why on earth do I have 99 followers on GitHub??? Almost nothing I do on Github is public, except my blogs. So weird.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2022-11-05-darkness-at-blaisedon/"/>
+		<updated>2022-11-05T17:34:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-11-05-darkness-at-blaisedon/</id>
+		<content type="html">&lt;p&gt;Wrapping up my series of early never-made occult detective TV shows with &lt;a href=&quot;https://multoghost.wordpress.com/2022/11/05/before-kolchak-v-a-darkness-at-blaisedon/&quot;&gt;&lt;em&gt;A Darkness at Blaisedon&lt;/em&gt;&lt;/a&gt; (1969). I hate to finish on a downbeat note, but only Dan Curtis fans will be warm about this one. 📺 👻 🕵🏽‍♀️&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2022-11-04-creeps-by-night/"/>
+		<updated>2022-11-04T17:15:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-11-04-creeps-by-night/</id>
+		<content type="html">&lt;p&gt;📚  Picked up a copy of &lt;a href=&quot;https://www.isfdb.org/cgi-bin/title.cgi?1027309&quot;&gt;&lt;em&gt;Creeps by Night&lt;/em&gt;&lt;/a&gt;, a 1931 anthology of spooky and macabre short stories, edited by Dashiell Hammett. My 1944 edition has 20 stories, plus an intro by Hammett, like the 1931 edition does; later reprints only include ten stories. So it was worth doing the research before dropping the hammer on biblio.com. I&#39;m curious to check out his selection.&lt;/p&gt;
+&lt;p&gt;My edition is from World Publishing, who also released two &amp;quot;terror tale&amp;quot; anthologies by Boris Karloff, &lt;a href=&quot;https://multoghost.wordpress.com/2019/05/31/boris-karloff-terror-tale-anthologist/&quot;&gt;&lt;em&gt;Tales of Terror&lt;/em&gt;&lt;/a&gt; from 1943, and &lt;a href=&quot;https://multoghost.wordpress.com/2019/06/10/karloffs-and-the-darkness-falls/&quot;&gt;&lt;em&gt;And the Darkness Falls&lt;/em&gt;&lt;/a&gt; from 1946. They&#39;re both good, but I really enjoyed &lt;em&gt;And the Darkness Falls&lt;/em&gt;; just a great selection. I hope the Hammett is a winner, too.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2022-11-04-imagetest/"/>
+		<updated>2022-11-04T13:09:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-11-04-imagetest/</id>
+		<content type="html">&lt;p&gt;Testing images on my blog&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;display:block;margin-left:auto;margin-right:auto;&quot; src=&quot;https://ninazumel.com/short_thoughts/assets/images/PalacioCrystal.jpg&quot; alt=&quot;Palacio Crystal&quot; border=&quot;0&quot;&gt;&lt;/p&gt;
+&lt;p&gt;This is the Palacio Crystal, in El Retiro (Retiro Park), Madrid. I took it in 2016.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2022-10-31-why/"/>
+		<updated>2022-10-31T21:13:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-10-31-why/</id>
+		<content type="html">&lt;p&gt;The reason I made my own microblogging site is so that I can announce my new long-form posts with an introduction. The stark &amp;quot;title + link&amp;quot; format I get by syndicating my blogs directly on Micro.blog isn&#39;t very friendly, or attractive.&lt;/p&gt;
+&lt;p&gt;For casual chat, a static Jekyll site isn&#39;t the best way to microblog; it cuts down on the spontaneity. But I&#39;ve never been a chatty person anyway. This will suit most of my microblogging needs just fine.&lt;/p&gt;
+&lt;p&gt;And now I can disconnect most of my other direct blog feeds to Micro.blog.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2022-10-31-halloween/"/>
+		<updated>2022-10-31T19:58:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-10-31-halloween/</id>
+		<content type="html">&lt;p&gt;Happy Halloween! 🎃 👻&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://ninazumel.com/testblog/blog/2022-10-30-firstpost/"/>
+		<updated>2022-10-30T17:23:00Z</updated>
+		<id>https://ninazumel.com/testblog/blog/2022-10-30-firstpost/</id>
+		<content type="html">&lt;p&gt;Testing the plumbing.&lt;/p&gt;
 </content>
 	</entry>
 </feed>

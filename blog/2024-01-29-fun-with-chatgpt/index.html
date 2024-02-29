@@ -3,10 +3,16 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Fun With Chat GPT</title>
-		<meta name="description" content="Data Scientist, San Francisco">
-		<link rel="alternate" href="/testblog/feed/feed.xml" type="application/atom+xml" title="Nina B. Zumel">
-		<link rel="alternate" href="/testblog/feed/feed.json" type="application/json" title="Nina B. Zumel">
+		<title>Short Thoughts</title>
+		<meta name="description" content="Nina Zumel&#39;s Microblog">
+		<link rel="alternate" href="/testblog/feed/feed.xml" type="application/atom+xml" title="Short Thoughts">
+		<link rel="alternate" href="/testblog/feed/feed.json" type="application/json" title="Short Thoughts">
+
+        
+		<link rel="me" href="https://micro.blog/MultoGhost">
+		<link rel="authorization_endpoint" href="https://indieauth.com/auth">
+		<link rel="token_endpoint" href="https://tokens.indieauth.com/token">
+		<link href="https://github.com/ninazumel" rel="me">
 		<script src="https://kit.fontawesome.com/9bbe6f85f9.js" crossorigin="anonymous"></script>
 		
 		<style>/**
@@ -180,7 +186,7 @@ pre[class*="language-diff-"] {
 * { box-sizing: border-box; }
 /* Defaults */
 :root {
-	--font-family: -apple-system, system-ui, sans-serif;
+	--font-family: Georgia, Times, -serif; /* Tahoma, -apple-system, system-ui, sans-serif; */
 	--font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
 }
 
@@ -191,12 +197,13 @@ pre[class*="language-diff-"] {
 	--color-gray-70: #4D4D4D;
 	--color-gray-90: #333;
 
+	--description-color: #9B9C9D;
 	--background-color: #fff;
 
 	--text-color: var(--color-gray-70);
-	--text-color-link: #32506d;
+	--text-color-link:  #32506d;
 	--text-color-link-active: #5f2b48;
-	--text-color-link-visited: #17050F;
+	--text-color-link-visited: var(--color-gray-50); /* #17050F; */
 
 	--syntax-tab-size: 2;
 }
@@ -205,10 +212,11 @@ pre[class*="language-diff-"] {
 	:root {
 		--color-gray-20: #e0e0e0;
 		--color-gray-50: #C0C0C0;
+		--color-gray-70: #dad8d8;
 		--color-gray-90: #dad8d8;
 
 		/* --text-color is assigned to --color-gray-_ above.*/
-		--test-color: var(--color-gray-20);
+		--text-color: var(--color-gray-20);
 		--text-color-link: #1493fb;
 		--text-color-link-active: #6969f7;
 		--text-color-link-visited: #a6a6f8;
@@ -228,6 +236,7 @@ body {
 	padding: 0;
 	margin: 0 auto;
 	font-family: var(--font-family);
+	font-size: 18px;  /* a little bigger to accomodate a serif font */
 	color: var(--text-color);
 	background-color: var(--background-color);
 }
@@ -237,6 +246,23 @@ html {
 body {
 	max-width: 50em;
 }
+
+/* different horizontal rules  https://www.w3schools.com/howto/howto_css_dividers.asp */
+ /* Dashed border */
+ hr.dashed {
+	border-top: 1px dashed #bbb;
+  }
+  
+  /* Dotted border */
+  hr.dotted {
+	border-top: 1px dotted #bbb;
+  }
+  
+  /* Solid border */
+  hr.solid {
+	border-top: 1px solid #bbb;
+  }
+  
 
 /* 
 https://css-tricks.com/barebones-css-for-fluid-images/ 
@@ -297,6 +323,7 @@ li {
 
 a[href] {
 	color: var(--text-color-link);
+	text-decoration: none; 
 }
 a[href]:visited {
 	color: var(--text-color-link-visited);
@@ -323,10 +350,12 @@ header:after {
 }
 
 .links-nextprev {
+	text-align: center;
 	list-style: none;
 	border-top: 1px dashed var(--color-gray-20);
 	padding: 1em 0;
 }
+
 
 table {
 	margin: 1em 0;
@@ -398,7 +427,7 @@ header {
 .postlist {
 	list-style: none;
 	padding: 0;
-	padding-left: 1.5rem;
+	padding-left: 0; /* 1.5rem; */
 }
 .postlist-item {
 	display: flex;
@@ -406,7 +435,12 @@ header {
 	align-items: baseline;
 	counter-increment: start-from -1;
 	margin-bottom: 1em;
+	padding-bottom: 50px;
+	/* padding: 8px 16px; */
+	border-bottom: 1px dashed var(--color-gray-20);
 }
+
+/* 
 .postlist-item:before {
 	display: inline-block;
 	pointer-events: none;
@@ -415,6 +449,8 @@ header {
 	text-align: right;
 	margin-left: -1.5rem;
 }
+*/
+
 .postlist-date,
 .postlist-item:before {
 	font-size: 0.8125em; /* 13px /16 */
@@ -422,16 +458,18 @@ header {
 }
 .postlist-date {
 	word-spacing: -0.5px;
+	padding-left: .25em;
 }
 .postlist-link {
-	font-size: 1.1875em; /* 19px /16 */
-	font-weight: 700;
+	font-size: 1em; /* 1.1875em;  19px /16 */
+	font-weight: 700; 
 	flex-basis: calc(100% - 1.5rem);
 	padding-left: .25em;
 	padding-right: .5em;
 	text-underline-position: from-font;
 	text-underline-offset: 0;
-	text-decoration-thickness: 1px;
+	text-decoration: none; 
+	/* text-decoration-thickness: 1px; */
 }
 .postlist-item-active .postlist-link {
 	font-weight: bold;
@@ -460,6 +498,22 @@ header {
 }
 .post-metadata time {
 	margin-right: 1em;
+}
+
+.post-metadata li {
+	font-size: 0.875em;
+}
+
+/* metadata for posts and talks */
+
+.posttalk-metadata {
+	list-style: none;
+	padding-left: 0;
+	color: var(--description-color);
+}
+
+.posttalk-metadata li {
+	font-size: 1.1em;
 }
 
 /* Direct Links / Markdown Headers */
@@ -506,7 +560,7 @@ hr {
     justify-content: space-around;
     align-items: center;
     padding: 2rem 0;
-    background-color: #fff
+    background-color: var(--background-color0);
 	;
 }
 
@@ -536,38 +590,29 @@ hr {
 		<a href="#skip" class="visually-hidden">Skip to main content</a>
 
 		<header>
-			<a href="/testblog/" class="home-link">Nina B. Zumel</a>
+			<a href="/testblog/" class="home-link">Short Thoughts</a>
 			<nav>
 				<h2 class="visually-hidden">Top level navigation menu</h2>
 				<ul class="nav">
-					<li class="nav-item"><a href="/testblog/pages/cv/">CV</a></li>
-					<li class="nav-item"><a href="/testblog/blog/">Blog</a></li>
-					<li class="nav-item"><a href="/testblog/personal-writing/">Personal Writing</a></li>
-					<li class="nav-item"><a href="/testblog/pages/practical-data-science-with-r/">Practical Data Science With R</a></li>
+					<li class="nav-item"><a href="/testblog/pages/about/">About</a></li>
+					<li class="nav-item"><a href="/testblog/blog/">Archive</a></li>
 				</ul>
 			</nav>
 		</header>
 
 		<main id="skip">
 			
-<h1>Fun With Chat GPT</h1>
+<h1></h1>
 
+<div class="posttalk-metadata">
+  <time datetime="2024-01-29 1:54 PM">29 January 2024 1:54 PM</time>
+</div>
 <ul class="post-metadata">
-	<li><time datetime="2024-01-29">29 January 2024</time></li>
-	<li><a href="/testblog/tags/chatgpt/" class="post-tag">ChatGPT</a></li>
 </ul>
 
-<p>So, my husband typed this into ChatGPT 3.5:</p>
-<blockquote>
-<p>What are some English words that are 4 letters long, start with f, and end with k?</p>
-</blockquote>
-<p>According to ChatGPT, there was only one word that fit that criterion: <em>fork</em>.  Upon prodding, it admitted that there were maybe a few more:</p>
-<img alt="Screenshot from ChatGPT 3.5" loading="lazy" decoding="async" src="/testblog/img/chatgpt_fk-DwBxoayKTh-400.png" width="3182" height="2287" srcset="/testblog/img/chatgpt_fk-DwBxoayKTh-400.png 400w, /testblog/img/chatgpt_fk-DwBxoayKTh-800.png 800w, /testblog/img/chatgpt_fk-DwBxoayKTh-1200.png 1200w, /testblog/img/chatgpt_fk-DwBxoayKTh-3182.png 3182w" sizes="100vw">
-<p>Typing a similar query into DuckDuckGo (<em>4 letter word starting with f ending with k</em>) produced a page full of links to various crossword puzzle and Scrabble dictionaries. The first link gave me seven words. A little further down, I found a link that gave me thirteen words: faik, fank, feck, filk, fink, firk, fisk, flak, folk, fork, funk, fusk, and of course, &quot;the F-word.&quot;</p>
-<p>I'm sure that ChatGPT has filters to eliminate profanity, and admittedly, not all the above words are &quot;common,&quot; but, come on -- <em>folk</em>? <em>funk</em>? <em>flak</em>??  I particularly like <em>feck</em>, though I never hear of anyone being &quot;full of feck,&quot; only &quot;feckless&quot; ...</p>
-<p>I'm sure GPT-4 does better, but I don't care to pay to find out.</p>
+<p>Playing silly games: <a href="https://ninazumel.com/2024/01/29/fun-with-chatgpt.html">Fun With Chat GPT</a></p>
 
-<ul class="links-nextprev"><li>Previous: <a href="/testblog/blog/2023-08-21-the-sphering-transform/">The Sphering Transform for Detecting Distribution Drift</a></li>
+<ul class="links-nextprev"><li><a href="/testblog/blog/2024-01-26-darna-vs-the-kapre/">&#8592;</a> <span style="color: #9B9C9D">Previous</span></li><li><span style="color: #9B9C9D">Next</span> <a href="/testblog/blog/2024-01-31-valentina-attacks/">&#8594</a></li>
 </ul>
 
 		</main>
@@ -578,14 +623,14 @@ hr {
 <div class="footer-container">
 	<p>&copy; 2024 Nina B. Zumel</p>
 	<div class="social_icons">
-	    <a href="mailto:nzumel@win-vector.com?subject=Comment%20from%20Website" aria-label="Email" target="_blank" rel="noopener noreferrer">
+	    <a href="mailto:nzumel@mzlabs.com?subject=subject=Comment%20from%20Short%20Thoughts" aria-label="Email" target="_blank" rel="noopener noreferrer">
 			<i class="fas fa-fw fa-envelope"></i>
 		</a>
-		<a href="https://github.com/ninazumel" aria-label="GitHub" target="_blank" rel="noopener noreferrer">
-			<i class="fa-brands fa-github"></i>
+		<a href="https://micro.blog/MultoGhost" aria-label="Micro.blog" target="_blank" rel="noopener noreferrer">
+			<i class="fab fa-fw fa-microblog"></i>
 		</a>
-		<a href="https://www.linkedin.com/in/ninazumel/" aria-label="LinkedIn" target="_blank" rel="noopener noreferrer">
-			<i class="fa-brands fa-linkedin"></i>
+		<a href="https://multoghost.wordpress.com/" aria-label="Multo (Ghost)" target="_blank" rel="noopener noreferrer">
+			<i class="fab fa-fw fa-wordpress"></i>
 		</a>
 		<a href="/testblog/feed.xml" aria-label="RSS" target="_blank" rel="noopener noreferrer">
 			<i class="fa fa-fw fa-rss-square"></i>

@@ -2,107 +2,522 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
-		<loc>https://ninazumel.com/testblog/blog/2023-04-06-what-why-how-abtesting/</loc>
-		<lastmod>2023-04-07</lastmod>
+		<loc>https://ninazumel.com/testblog/blog/2022-10-30-firstpost/</loc>
+		<lastmod>2022-10-30 5:23 PM</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://ninazumel.com/testblog/blog/2023-04-10-pandas-polars-rosetta-stone/</loc>
-		<lastmod>2023-04-10</lastmod>
+		<loc>https://ninazumel.com/testblog/blog/2022-10-31-halloween/</loc>
+		<lastmod>2022-10-31 7:58 PM</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://ninazumel.com/testblog/blog/2023-08-21-the-sphering-transform/</loc>
-		<lastmod>2023-08-21</lastmod>
+		<loc>https://ninazumel.com/testblog/blog/2022-10-31-why/</loc>
+		<lastmod>2022-10-31 9:13 PM</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://ninazumel.com/testblog/blog/</loc>
-		<lastmod>2024-01-13</lastmod>
+		<loc>https://ninazumel.com/testblog/blog/2022-11-04-imagetest/</loc>
+		<lastmod>2022-11-04 1:09 PM</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://ninazumel.com/testblog/</loc>
-		<lastmod>2024-01-13</lastmod>
+		<loc>https://ninazumel.com/testblog/blog/2022-11-04-creeps-by-night/</loc>
+		<lastmod>2022-11-04 5:15 PM</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://ninazumel.com/testblog/recentposts/</loc>
-		<lastmod>2024-01-13</lastmod>
+		<loc>https://ninazumel.com/testblog/blog/2022-11-05-darkness-at-blaisedon/</loc>
+		<lastmod>2022-11-05 5:34 PM</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://ninazumel.com/testblog/tags/</loc>
-		<lastmod>2024-01-13</lastmod>
+		<loc>https://ninazumel.com/testblog/blog/2022-11-05-why/</loc>
+		<lastmod>2022-11-05 10:30 PM</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://ninazumel.com/testblog/tags/data-science/</loc>
-		<lastmod>2024-01-13</lastmod>
+		<loc>https://ninazumel.com/testblog/blog/2022-11-06-sunday-project/</loc>
+		<lastmod>2022-11-06 9:08 AM</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://ninazumel.com/testblog/tags/statistics/</loc>
-		<lastmod>2024-01-13</lastmod>
+		<loc>https://ninazumel.com/testblog/blog/2022-11-06-sunday-project2/</loc>
+		<lastmod>2022-11-06 9:12 AM</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://ninazumel.com/testblog/tags/ab-testing/</loc>
-		<lastmod>2024-01-13</lastmod>
+		<loc>https://ninazumel.com/testblog/blog/2022-11-07-winter-tales/</loc>
+		<lastmod>2022-11-07 6:45 PM</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://ninazumel.com/testblog/tags/python/</loc>
-		<lastmod>2024-01-13</lastmod>
+		<loc>https://ninazumel.com/testblog/blog/2022-11-07-elections/</loc>
+		<lastmod>2022-11-07 7:15 PM</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://ninazumel.com/testblog/tags/polars/</loc>
-		<lastmod>2024-01-13</lastmod>
+		<loc>https://ninazumel.com/testblog/blog/2022-11-09-the-bells/</loc>
+		<lastmod>2022-11-09 4:50 PM</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://ninazumel.com/testblog/tags/pandas/</loc>
-		<lastmod>2024-01-13</lastmod>
+		<loc>https://ninazumel.com/testblog/blog/2022-11-11-why-I-write/</loc>
+		<lastmod>2022-11-11 12:41 PM</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://ninazumel.com/testblog/tags/svd/</loc>
-		<lastmod>2024-01-13</lastmod>
+		<loc>https://ninazumel.com/testblog/blog/2022-11-11-I-write-I-think/</loc>
+		<lastmod>2022-11-11 1:14 PM</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://ninazumel.com/testblog/tags/data-drift/</loc>
-		<lastmod>2024-01-13</lastmod>
+		<loc>https://ninazumel.com/testblog/blog/2022-11-18-vincent-price/</loc>
+		<lastmod>2022-11-18 2:11 PM</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://ninazumel.com/testblog/tags/chatgpt/</loc>
-		<lastmod>2024-01-13</lastmod>
+		<loc>https://ninazumel.com/testblog/blog/2022-11-18-observation/</loc>
+		<lastmod>2022-11-18 4:17 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2022-11-20-streaming_vod/</loc>
+		<lastmod>2022-11-20 10:11 AM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2022-11-21-dorian-gray/</loc>
+		<lastmod>2022-11-21 1:21 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2022-11-23-social-media-party/</loc>
+		<lastmod>2022-11-23 10:46 AM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2022-11-28-back-to-the-dilemna-verse/</loc>
+		<lastmod>2022-11-28 4:50 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2022-11-30-stationery/</loc>
+		<lastmod>2022-11-30 12:49 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2022-12-1-musical-mystery/</loc>
+		<lastmod>2022-12-01 8:56 AM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2022-12-8-number-two-melrose-square/</loc>
+		<lastmod>2022-12-08 8:28 AM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2022-12-15-ghost-of-charlotte-cray/</loc>
+		<lastmod>2022-12-15 8:20 AM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2022-12-15-rss/</loc>
+		<lastmod>2022-12-15 7:40 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2022-12-18-content/</loc>
+		<lastmod>2022-12-18 10:21 AM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2022-12-19-sister-johannas-story/</loc>
+		<lastmod>2022-12-19 8:58 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2022-12-24-squire-humperdinck/</loc>
+		<lastmod>2022-12-24 8:10 AM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2022-12-25-merry-christmas/</loc>
+		<lastmod>2022-12-25 9:05 AM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2022-12-26-new-theme/</loc>
+		<lastmod>2022-12-26 11:26 AM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2022-12-27-things-ive-learned/</loc>
+		<lastmod>2022-12-27 9:02 AM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2022-12-28-a-curious-experience/</loc>
+		<lastmod>2022-12-28 2:06 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2022-12-28-commonplace-book/</loc>
+		<lastmod>2022-12-28 2:42 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-01-05-tale-of-gaslight-ghost/</loc>
+		<lastmod>2023-01-05 9:01 AM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-01-06-bad-book-reviews/</loc>
+		<lastmod>2023-01-06 9:30 AM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-01-06-mcsweeneys-life-reviews/</loc>
+		<lastmod>2023-01-06 9:31 AM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-01-20-ghosts-from-the-library/</loc>
+		<lastmod>2023-01-20 3:17 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-01-22-the-ideal/</loc>
+		<lastmod>2023-01-22 2:58 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-01-26-commonplace-redux/</loc>
+		<lastmod>2023-01-26 8:31 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-01-27-kipling/</loc>
+		<lastmod>2023-01-26 10:17 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-02-08-websites/</loc>
+		<lastmod>2023-02-08 1:48 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-02-08-reader/</loc>
+		<lastmod>2023-02-08 9:30 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-02-10-honjin/</loc>
+		<lastmod>2023-02-10 3:16 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-02-12-bookshelf/</loc>
+		<lastmod>2023-02-12 11:26 AM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-02-14-more-books/</loc>
+		<lastmod>2023-02-14 2:00 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-02-24-quotes/</loc>
+		<lastmod>2023-02-24 1:04 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-02-24-bookspine-lit/</loc>
+		<lastmod>2023-02-24 1:31 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-02-25-bookshelf-done/</loc>
+		<lastmod>2023-02-25 6:14 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-03-21-obsidian/</loc>
+		<lastmod>2023-03-21 6:56 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-03-28-medieval-studies-mr-james/</loc>
+		<lastmod>2023-03-28 4:26 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-04-07-abtesting/</loc>
+		<lastmod>2023-04-07 7:32 AM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-04-10-polars-pandas-rosetta-stone/</loc>
+		<lastmod>2023-04-10 6:13 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-04-16-hypercard/</loc>
+		<lastmod>2023-04-16 8:48 AM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-04-24-eternal-stooge/</loc>
+		<lastmod>2023-04-24 5:22 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-04-30-sangster/</loc>
+		<lastmod>2023-04-30 12:42 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-05-02-mark-denton/</loc>
+		<lastmod>2023-05-02 4:05 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-05-12-do-justly-now/</loc>
+		<lastmod>2023-05-12 1:05 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-05-29-darna-origin/</loc>
+		<lastmod>2023-05-29 12:11 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-06-04-birth-of-valentina/</loc>
+		<lastmod>2023-06-04 10:22 AM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-06-17-darna-03/</loc>
+		<lastmod>2023-06-17 6:41 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-07-16-valentina-breaks-free/</loc>
+		<lastmod>2023-07-16 6:19 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-07-22-valentinas-mission/</loc>
+		<lastmod>2023-07-22 6:33 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-08-05-goddess-of-snakes/</loc>
+		<lastmod>2023-08-05 5:54 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-08-21-sphering-transform/</loc>
+		<lastmod>2023-08-21 9:15 AM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-08-25-valentina-falls-in-love/</loc>
+		<lastmod>2023-08-25 5:09 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-08-26-darna-valentina-the-plot-thickens/</loc>
+		<lastmod>2023-08-26 10:09 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-09-01-twelve-medieval-ghost-stories/</loc>
+		<lastmod>2023-09-01 5:48 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-09-10-valentina-arrives-in-town/</loc>
+		<lastmod>2023-09-10 2:40 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-09-17-Valentina-as-the-Virgin/</loc>
+		<lastmod>2023-09-17 4:42 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-11-03-stories-of-snake-twins/</loc>
+		<lastmod>2023-11-03 2:59 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-11-17-Valentina-Amazes/</loc>
+		<lastmod>2023-11-17 4:40 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-11-20-baybeats/</loc>
+		<lastmod>2023-11-20 5:51 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-11-24-a-drink-from-the-cup/</loc>
+		<lastmod>2023-11-24 9:49 AM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-12-01-ghost-in-the-mill/</loc>
+		<lastmod>2023-12-01 3:54 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-12-08-La-Corriveau/</loc>
+		<lastmod>2023-12-08 9:03 AM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-12-15-warned-by-the-wire/</loc>
+		<lastmod>2023-12-15 9:38 AM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-12-15-valentina-reveals-all/</loc>
+		<lastmod>2023-12-15 12:43 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-12-22-the-twelfth-guest/</loc>
+		<lastmod>2023-12-22 2:32 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-12-22-steamboat-willie-pd/</loc>
+		<lastmod>2023-12-22 2:53 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-12-24-white-witch/</loc>
+		<lastmod>2023-12-24 9:19 AM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-12-29-the-ghostly-rental/</loc>
+		<lastmod>2023-12-29 11:25 AM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2023-12-31-misers-ghost/</loc>
+		<lastmod>2023-12-31 10:10 AM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2024-01-02-literary-sleuthing/</loc>
+		<lastmod>2024-01-02 2:17 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2024-01-09-darna-the-aftermath/</loc>
+		<lastmod>2024-01-09 10:27 AM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2024-01-11-welcome-to-our-world/</loc>
+		<lastmod>2024-01-11 11:58 AM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2024-01-14-my-search-engines/</loc>
+		<lastmod>2024-01-14 9:45 AM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2024-01-14-darna-back-to-edwardo/</loc>
+		<lastmod>2024-01-14 1:31 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2024-01-19-wordpress-com/</loc>
+		<lastmod>2024-01-19 10:17 AM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2024-01-19-darnas-back/</loc>
+		<lastmod>2024-01-19 10:45 AM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2024-01-21-secret-of-the-pointed-tower/</loc>
+		<lastmod>2024-01-21 2:38 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2024-01-26-darna-vs-the-kapre/</loc>
+		<lastmod>2024-01-26 1:46 PM</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://ninazumel.com/testblog/blog/2024-01-29-fun-with-chatgpt/</loc>
-		<lastmod>2024-01-29</lastmod>
+		<lastmod>2024-01-29 1:54 PM</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://ninazumel.com/testblog/pages/cv/</loc>
-		<lastmod>2024-02-11</lastmod>
+		<loc>https://ninazumel.com/testblog/blog/2024-01-31-valentina-attacks/</loc>
+		<lastmod>2024-01-31 3:50 PM</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://ninazumel.com/testblog/personal-writing/</loc>
-		<lastmod>2024-02-11</lastmod>
+		<loc>https://ninazumel.com/testblog/blog/2024-02-07-darna-steps-up/</loc>
+		<lastmod>2024-02-07 3:13 PM</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://ninazumel.com/testblog/pages/practical-data-science-with-r/</loc>
-		<lastmod>2024-02-11</lastmod>
+		<loc>https://ninazumel.com/testblog/blog/2024-02-08-email-link/</loc>
+		<lastmod>2024-02-08 10:32 AM</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://ninazumel.com/testblog/pages/technical-writing/</loc>
-		<lastmod>2024-02-11</lastmod>
+		<loc>https://ninazumel.com/testblog/blog/2024-02-11-adventures-with-little-free-library/</loc>
+		<lastmod>2024-02-11 10:48 AM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2024-02-17-darna-santa-barbara/</loc>
+		<lastmod>2024-02-17 4:24 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2024-02-19-blog-migration/</loc>
+		<lastmod>2024-02-19 12:40 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/</loc>
+		<lastmod>2024-02-19 7:19 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/</loc>
+		<lastmod>2024-02-19 7:19 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/tags/</loc>
+		<lastmod>2024-02-19 7:19 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2024-02-21-clarity-not-magic/</loc>
+		<lastmod>2024-02-21 9:00 AM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/pages/about/</loc>
+		<lastmod>2024-02-23 5:48 PM</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://ninazumel.com/testblog/blog/2024-02-26-edwardo-and-consuelo/</loc>
+		<lastmod>2024-02-26 11:12 AM</lastmod>
 	</url>
 </urlset>
